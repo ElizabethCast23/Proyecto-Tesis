@@ -22,5 +22,7 @@
 \contentsline {subsection}{\numberline {1.6.2}Hipótesis Específicas}{14}{subsection.1.6.2}%
 \contentsline {subsection}{\numberline {1.6.3}Matriz de Consistencia}{14}{subsection.1.6.3}%
 \contentsline {chapter}{Anexos}{15}{section*.7}%
-\contentsline {chapter}{\numberline {A}Anexo I: Matriz de Consistencia}{16}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {B}Anexo II: Resumen de Papers investigados}{18}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {A}Anexo I: Árbol de Problema }{16}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Anexo II: Árbol de Objetivo}{17}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {C}Anexo II: Matriz de Consistencia}{18}{appendix.Alph3}%
+\contentsline {chapter}{\numberline {D}Anexo II: Resumen de Papers investigados}{20}{appendix.Alph4}%

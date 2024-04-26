@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  22 APR 2024 17:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  26 APR 2024 12:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1134,7 +1134,7 @@ nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
 or `spanish'. on input line 142.
-<images_repo/esanlogomin.png, id=103, 100.6962pt x 100.2144pt>
+<images_repo/esanlogomin.png, id=111, 100.6962pt x 100.2144pt>
 File: images_repo/esanlogomin.png Graphic file (type png)
 <use images_repo/esanlogomin.png>
 Package pdftex.def Info: images_repo/esanlogomin.png  used on input line 148.
@@ -1263,7 +1263,7 @@ LaTeX Info: Redefining \% on input line 1.
 
  (1/planteamiento.tex
 Cap\'{\i }tulo 1.
-<1/figures/Grafico1DiagnosnitoCancer.JPG, id=182, 619.71526pt x 417.9615pt>
+<1/figures/Grafico1DiagnosnitoCancer.JPG, id=196, 619.71526pt x 417.9615pt>
 File: 1/figures/Grafico1DiagnosnitoCancer.JPG Graphic file (type jpg)
 <use 1/figures/Grafico1DiagnosnitoCancer.JPG>
 Package pdftex.def Info: 1/figures/Grafico1DiagnosnitoCancer.JPG  used on input
@@ -1284,7 +1284,7 @@ LaTeX Warning: Citation 'OMS_cancer' on page 9 undefined on input line 16.
 
 
  <./1/figures/Grafico1DiagnosnitoCancer.JPG>]
-<1/figures/radiación_ultravioleta_peru.png, id=188, 1204.5pt x 1505.625pt>
+<1/figures/radiación_ultravioleta_peru.png, id=202, 1204.5pt x 1505.625pt>
 File: 1/figures/radiación_ultravioleta_peru.png Graphic file (type png)
 <use 1/figures/radiación_ultravioleta_peru.png>
 Package pdftex.def Info: 1/figures/radiación_ultravioleta_peru.png  used on in
@@ -1307,7 +1307,7 @@ LaTeX Warning: Citation 'cancer_diagnostico' on page 10 undefined on input line
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 [10 <./1/figures/radiación_ultravioleta_peru.png>]
-<1/figures/cancer_diagnostico.JPG, id=195, 837.72975pt x 386.6445pt>
+<1/figures/cancer_diagnostico.JPG, id=209, 837.72975pt x 386.6445pt>
 File: 1/figures/cancer_diagnostico.JPG Graphic file (type jpg)
 <use 1/figures/cancer_diagnostico.JPG>
 Package pdftex.def Info: 1/figures/cancer_diagnostico.JPG  used on input line 4
@@ -1322,20 +1322,17 @@ LaTeX Warning: Citation 'cancer_diagnostico' on page 11 undefined on input line
 LaTeX Warning: Citation 'cancer_diagnostico' on page 11 undefined on input line
  44.
 
-
-LaTeX Warning: Reference `anebxo1' on page 11 undefined on input line 57.
-
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
 [11 <./1/figures/cancer_diagnostico.JPG>]
 
-LaTeX Warning: Reference `anexo1' on page 12 undefined on input line 89.
+LaTeX Warning: Reference `arbolObjeti' on page 12 undefined on input line 90.
 
-LaTeX Info: Redefining \. on input line 121.
-LaTeX Info: Redefining \% on input line 121.
+LaTeX Info: Redefining \. on input line 124.
+LaTeX Info: Redefining \% on input line 124.
 [12]
-LaTeX Info: Redefining \. on input line 151.
-LaTeX Info: Redefining \% on input line 151.
+LaTeX Info: Redefining \. on input line 154.
+LaTeX Info: Redefining \% on input line 154.
  [13])
 LaTeX Info: Redefining \. on input line 194.
 LaTeX Info: Redefining \% on input line 194.
@@ -1349,332 +1346,117 @@ LaTeX Info: Redefining \% on input line 194.
 
  (anexos/anexo.tex
 Anexos A.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+<images_repo/Anexo/Problem Tree Template.jpg, id=233, 1553.805pt x 1116.17pt>
+File: images_repo/Anexo/Problem Tree Template.jpg Graphic file (type jpg)
+<use images_repo/Anexo/Problem Tree Template.jpg>
+Package pdftex.def Info: images_repo/Anexo/Problem Tree Template.jpg  used on i
+nput line 5.
+(pdftex.def)             Requested size: 362.37598pt x 260.30731pt.
+[16
 
-Underfull \hbox (badness 1087) in paragraph at lines 15--15
-[]|\OT1/ptm/m/n/10.95 Determinar cu[]al de las he-rra-
+
+ <./images_repo/Anexo/Problem Tree Template.jpg>]
+Anexos B.
+<images_repo/Anexo/Árbol de Objetivos.jpg, id=238, 1459.4525pt x 1188.44pt>
+File: images_repo/Anexo/Árbol de Objetivos.jpg Graphic file (type jpg)
+<use images_repo/Anexo/Árbol de Objetivos.jpg>
+Package pdftex.def Info: images_repo/Anexo/Árbol de Objetivos.jpg  used on inp
+ut line 17.
+(pdftex.def)             Requested size: 362.37598pt x 295.07825pt.
+[17
+
+ <./images_repo/Anexo/Árbol de Objetivos.jpg>]
+Anexos C.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+
+Underfull \hbox (badness 2343) in paragraph at lines 39--39
+[]|\OT1/ptm/m/n/10.95 La apli-ca-ci[]on de t[]ecni-cas de
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 28--28
+Underfull \hbox (badness 4660) in paragraph at lines 46--46
+[]|\OT1/ptm/m/n/10.95 Determinar los ti-pos de ca-
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 48--48
+[]|\OT1/ptm/m/n/10.95 Identificar los ti-pos de rui-dos
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 52--52
 \OT1/ptm/m/n/10.95 den afec-tar los me-la-no-mas y
  []
 
 
-Overfull \hbox (11.42305pt too wide) in paragraph at lines 7--31
+Underfull \hbox (badness 3078) in paragraph at lines 52--53
+[]|\OT1/ptm/m/n/10.95 Influencia de las con-di-cio-nes
+ []
+
+
+Overfull \hbox (11.42305pt too wide) in paragraph at lines 31--55
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 3.01405pt on input line 33.
+LaTeX Warning: Float too large for page by 109.09428pt on input line 57.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[16
-
+[18
 
 ]
-LaTeX Info: Redefining \. on input line 37.
-LaTeX Info: Redefining \% on input line 37.
- [17]
-Anexos B.
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [19]
+Anexos D.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-7.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
+1.
 (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Overfull \hbox (1.37367pt too wide) in paragraph at lines 49--49
+Overfull \hbox (1.37367pt too wide) in paragraph at lines 73--73
 []|[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 []|\OT1/ptm/m/n/10 Copper pri-ce es-ti-ma-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 []|\OT1/ptm/m/n/10 Dehghani
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 49--49
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 73--73
 []|\OT1/ptm/m/n/10 2018| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 []|\OT1/ptm/m/n/10 United
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 51--51
+Underfull \hbox (badness 3471) in paragraph at lines 75--75
 []|\OT1/ptm/m/n/10 Alternative tech-ni-ques for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-[]|\OT1/ptm/m/n/10 Cortez, Say-
- []
-
-
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 51--51
-[]|\OT1/ptm/m/n/10 2018| 
- []
-
-
-Underfull \hbox (badness 5592) in paragraph at lines 51--52
-\OT1/ptm/m/n/10 of Mi-ning Scien-ce
- []
-
-
-Overfull \hbox (1.37367pt too wide) in paragraph at lines 53--54
-[]|[]| 
- []
-
-
-Underfull \hbox (badness 1596) in paragraph at lines 55--55
-[]|\OT1/ptm/m/n/10 Trastour, Ge-
- []
-
-
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 55--55
-[]|\OT1/ptm/m/n/10 2016| 
- []
-
-
-Underfull \hbox (badness 1648) in paragraph at lines 55--56
-[]|\OT1/ptm/m/n/10 Standfort Uni-ver-sity
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
-[]|\OT1/ptm/m/n/10 Stock Pri-ce Pre-dic-tion
- []
-
-
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 57--57
-[]|\OT1/ptm/m/n/10 2018| 
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 59--60
-[]|\OT1/ptm/m/n/10 Deep Lear-ning for Stock
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-[]|\OT1/ptm/m/n/10 Akita, R.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-\OT1/ptm/m/n/10 Yoshiha-ra,
- []
-
-
-Underfull \hbox (badness 2538) in paragraph at lines 60--60
-\OT1/ptm/m/n/10 A., Matsu-ba-
- []
-
-
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 60--60
-[]|\OT1/ptm/m/n/10 2016| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
-[]|\OT1/ptm/m/n/10 2016 IEEE/ACIS
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
-\OT1/ptm/m/n/10 15th In-ter-na-tio-
- []
-
-
-Underfull \hbox (badness 6461) in paragraph at lines 60--62
-\OT1/ptm/m/n/10 nal Con-fe-ren-ce on
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
-\OT1/ptm/m/n/10 Com-pu-ter and In-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
-\OT1/ptm/m/n/10 for-ma-tion Scien-ce
- []
-
-
-Overfull \hbox (1.37367pt too wide) in paragraph at lines 63--63
-[]|[]| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
-[]|\OT1/ptm/m/n/10 Stock Pri-ces Pre-dic-tion
- []
-
-
-Underfull \hbox (badness 3713) in paragraph at lines 63--64
-\OT1/ptm/m/n/10 per Ar-ti-cles with Ko-rean
- []
-
-
-Underfull \hbox (badness 3068) in paragraph at lines 63--64
-\OT1/ptm/m/n/10 Na-tu-ral Lan-gua-ge Pro-ces-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]|\OT1/ptm/m/n/10 Yun, Sim,
- []
-
-
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 64--64
-[]|\OT1/ptm/m/n/10 2019| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-[]|\OT1/ptm/m/n/10 2019 In-ter-na-tio-nal
- []
-
-
-Underfull \hbox (badness 4391) in paragraph at lines 64--66
-\OT1/ptm/m/n/10 Con-fe-ren-ce on Ar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-\OT1/ptm/m/n/10 ti-fi-cial In-te-lli-gen-ce
- []
-
-
-Underfull \hbox (badness 4120) in paragraph at lines 64--66
-\OT1/ptm/m/n/10 in In-for-ma-tion and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-\OT1/ptm/m/n/10 Com-mu-ni-ca-tion
- []
-
-
-Underfull \hbox (badness 3068) in paragraph at lines 67--68
-[]|\OT1/ptm/m/n/10 A Method of Op-ti-mi-zing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]|\OT1/ptm/m/n/10 Jingrui, Z.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/10 Qin-glin, W.,
- []
-
-
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 68--68
-[]|\OT1/ptm/m/n/10 2017| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--70
-[]|\OT1/ptm/m/n/10 2017 32nd Youth
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--70
-\OT1/ptm/m/n/10 Aca-de-mic An-nual
- []
-
-
-Underfull \hbox (badness 2005) in paragraph at lines 68--70
-\OT1/ptm/m/n/10 Con-fe-ren-ce of Chi-
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 68--70
-\OT1/ptm/m/n/10 ne-se As-so-cia-tion of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-[]|\OT1/ptm/m/n/10 Qualitative Stock Mar-ket
- []
-
-
-Underfull \hbox (badness 7558) in paragraph at lines 71--72
-\OT1/ptm/m/n/10 Pre-dic-ting with Com-mon
- []
-
-
-Underfull \hbox (badness 5345) in paragraph at lines 71--72
-\OT1/ptm/m/n/10 Know-led-ge Ba-sed Na-tu-re
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-\OT1/ptm/m/n/10 Lan-gua-ge Pro-ces-sing: A
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
-[]|\OT1/ptm/m/n/10 Rao, D.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
-\OT1/ptm/m/n/10 Deng, F.,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
-\OT1/ptm/m/n/10 Jiang, Z.,
- []
-
-
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 72--72
-[]|\OT1/ptm/m/n/10 2015| 
- []
-
-
-Underfull \hbox (badness 6461) in paragraph at lines 72--74
-\OT1/ptm/m/n/10 nal Con-fe-ren-ce on
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
-\OT1/ptm/m/n/10 In-te-lli-gent Human-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
-\OT1/ptm/m/n/10 Machine Sys-tems
- []
-
-
-Underfull \hbox (badness 1708) in paragraph at lines 75--75
-\OT1/ptm/m/n/10 for Do-cu-ment Re-pre-sen-ta-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 75--75
-[]|\OT1/ptm/m/n/10 Zhao, R.,
+[]|\OT1/ptm/m/n/10 Cortez, Say-
  []
 
 
@@ -1683,24 +1465,274 @@ Overfull \hbox (2.92818pt too wide) in paragraph at lines 75--75
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--77
+Underfull \hbox (badness 5592) in paragraph at lines 75--76
+\OT1/ptm/m/n/10 of Mi-ning Scien-ce
+ []
+
+
+Overfull \hbox (1.37367pt too wide) in paragraph at lines 77--78
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 79--79
+[]|\OT1/ptm/m/n/10 Trastour, Ge-
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 79--79
+[]|\OT1/ptm/m/n/10 2016| 
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 79--80
+[]|\OT1/ptm/m/n/10 Standfort Uni-ver-sity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]|\OT1/ptm/m/n/10 Stock Pri-ce Pre-dic-tion
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 81--81
+[]|\OT1/ptm/m/n/10 2018| 
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 83--84
+[]|\OT1/ptm/m/n/10 Deep Lear-ning for Stock
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\OT1/ptm/m/n/10 Akita, R.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/ptm/m/n/10 Yoshiha-ra,
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 84--84
+\OT1/ptm/m/n/10 A., Matsu-ba-
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 84--84
+[]|\OT1/ptm/m/n/10 2016| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+[]|\OT1/ptm/m/n/10 2016 IEEE/ACIS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+\OT1/ptm/m/n/10 15th In-ter-na-tio-
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 84--86
+\OT1/ptm/m/n/10 nal Con-fe-ren-ce on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+\OT1/ptm/m/n/10 Com-pu-ter and In-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+\OT1/ptm/m/n/10 for-ma-tion Scien-ce
+ []
+
+
+Overfull \hbox (1.37367pt too wide) in paragraph at lines 87--87
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+[]|\OT1/ptm/m/n/10 Stock Pri-ces Pre-dic-tion
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 87--88
+\OT1/ptm/m/n/10 per Ar-ti-cles with Ko-rean
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 87--88
+\OT1/ptm/m/n/10 Na-tu-ral Lan-gua-ge Pro-ces-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\OT1/ptm/m/n/10 Yun, Sim,
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 88--88
+[]|\OT1/ptm/m/n/10 2019| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+[]|\OT1/ptm/m/n/10 2019 In-ter-na-tio-nal
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 88--90
+\OT1/ptm/m/n/10 Con-fe-ren-ce on Ar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+\OT1/ptm/m/n/10 ti-fi-cial In-te-lli-gen-ce
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 88--90
+\OT1/ptm/m/n/10 in In-for-ma-tion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+\OT1/ptm/m/n/10 Com-mu-ni-ca-tion
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 91--92
+[]|\OT1/ptm/m/n/10 A Method of Op-ti-mi-zing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\OT1/ptm/m/n/10 Jingrui, Z.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\OT1/ptm/m/n/10 Qin-glin, W.,
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 92--92
+[]|\OT1/ptm/m/n/10 2017| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+[]|\OT1/ptm/m/n/10 2017 32nd Youth
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+\OT1/ptm/m/n/10 Aca-de-mic An-nual
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 92--94
+\OT1/ptm/m/n/10 Con-fe-ren-ce of Chi-
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 92--94
+\OT1/ptm/m/n/10 ne-se As-so-cia-tion of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[]|\OT1/ptm/m/n/10 Qualitative Stock Mar-ket
+ []
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 95--96
+\OT1/ptm/m/n/10 Pre-dic-ting with Com-mon
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 95--96
+\OT1/ptm/m/n/10 Know-led-ge Ba-sed Na-tu-re
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+\OT1/ptm/m/n/10 Lan-gua-ge Pro-ces-sing: A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\OT1/ptm/m/n/10 Rao, D.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\OT1/ptm/m/n/10 Deng, F.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\OT1/ptm/m/n/10 Jiang, Z.,
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 96--96
+[]|\OT1/ptm/m/n/10 2015| 
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 96--98
+\OT1/ptm/m/n/10 nal Con-fe-ren-ce on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+\OT1/ptm/m/n/10 In-te-lli-gent Human-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+\OT1/ptm/m/n/10 Machine Sys-tems
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 99--99
+\OT1/ptm/m/n/10 for Do-cu-ment Re-pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+[]|\OT1/ptm/m/n/10 Zhao, R.,
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 99--99
+[]|\OT1/ptm/m/n/10 2018| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--101
 []|\OT1/ptm/m/n/10 IEEE Transac-tions
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 75--77
+Underfull \hbox (badness 7362) in paragraph at lines 99--101
 \OT1/ptm/m/n/10 on Fuzzy Sys-tems
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [18
+) [20
 
 ]
 LaTeX Info: Redefining \. on input line 208.
 LaTeX Info: Redefining \% on input line 208.
- [19]
+ [21]
 
 LaTeX Warning: Empty bibliography on input line 213.
 
@@ -1719,7 +1751,7 @@ L3 programming layer <2024-03-14>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: A81F6D1D77ECE6AF8898712059E47A27;3974.
+(rerunfilecheck)             Checksum: 78A531E8A02981766873BEE3B5747409;4380.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                tesis
@@ -1730,18 +1762,18 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28882 strings out of 474423
- 556865 string characters out of 5751521
+ 28908 strings out of 474423
+ 557723 string characters out of 5751521
  1954496 words of memory out of 5000000
- 50779 multiletter control sequences out of 15000+600000
+ 50799 multiletter control sequences out of 15000+600000
  599656 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,32n,81p,1284b,3038s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/M
 iKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on tesis.pdf (20 pages, 432760 bytes).
+Output written on tesis.pdf (22 pages, 647722 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 286 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 247 words of extra memory for PDF output out of 10000 (max. 10000000)
 

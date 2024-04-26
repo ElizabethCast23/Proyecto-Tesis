@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  26 APR 2024 12:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  26 APR 2024 18:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1325,18 +1325,18 @@ LaTeX Warning: Citation 'cancer_diagnostico' on page 11 undefined on input line
 LaTeX Info: Redefining \. on input line 83.
 LaTeX Info: Redefining \% on input line 83.
 [11 <./1/figures/cancer_diagnostico.JPG>]
-
-LaTeX Warning: Reference `arbolObjeti' on page 12 undefined on input line 90.
-
 LaTeX Info: Redefining \. on input line 124.
 LaTeX Info: Redefining \% on input line 124.
-[12]
-LaTeX Info: Redefining \. on input line 154.
-LaTeX Info: Redefining \% on input line 154.
- [13])
+ [12]
+LaTeX Info: Redefining \. on input line 178.
+LaTeX Info: Redefining \% on input line 178.
+ [13]
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
+ [14])
 LaTeX Info: Redefining \. on input line 194.
 LaTeX Info: Redefining \% on input line 194.
- [14] [15
+ [15] [16
 
 
 
@@ -1344,26 +1344,27 @@ LaTeX Info: Redefining \% on input line 194.
 ]
 \openout2 = `anexos/anexo.aux'.
 
- (anexos/anexo.tex
+
+(anexos/anexo.tex
 Anexos A.
-<images_repo/Anexo/Problem Tree Template.jpg, id=233, 1553.805pt x 1116.17pt>
+<images_repo/Anexo/Problem Tree Template.jpg, id=238, 1553.805pt x 1116.17pt>
 File: images_repo/Anexo/Problem Tree Template.jpg Graphic file (type jpg)
 <use images_repo/Anexo/Problem Tree Template.jpg>
 Package pdftex.def Info: images_repo/Anexo/Problem Tree Template.jpg  used on i
 nput line 5.
 (pdftex.def)             Requested size: 362.37598pt x 260.30731pt.
-[16
+[17
 
 
  <./images_repo/Anexo/Problem Tree Template.jpg>]
 Anexos B.
-<images_repo/Anexo/Árbol de Objetivos.jpg, id=238, 1459.4525pt x 1188.44pt>
+<images_repo/Anexo/Árbol de Objetivos.jpg, id=243, 1459.4525pt x 1188.44pt>
 File: images_repo/Anexo/Árbol de Objetivos.jpg Graphic file (type jpg)
 <use images_repo/Anexo/Árbol de Objetivos.jpg>
 Package pdftex.def Info: images_repo/Anexo/Árbol de Objetivos.jpg  used on inp
 ut line 17.
 (pdftex.def)             Requested size: 362.37598pt x 295.07825pt.
-[17
+[18
 
  <./images_repo/Anexo/Árbol de Objetivos.jpg>]
 Anexos C.
@@ -1409,12 +1410,12 @@ LaTeX Warning: Float too large for page by 109.09428pt on input line 57.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18
+[19
 
 ]
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
- [19]
+ [20]
 Anexos D.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
@@ -1727,12 +1728,12 @@ Underfull \hbox (badness 7362) in paragraph at lines 99--101
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [20
+) [21
 
 ]
 LaTeX Info: Redefining \. on input line 208.
 LaTeX Info: Redefining \% on input line 208.
- [21]
+ [22]
 
 LaTeX Warning: Empty bibliography on input line 213.
 
@@ -1751,7 +1752,7 @@ L3 programming layer <2024-03-14>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 78A531E8A02981766873BEE3B5747409;4380.
+(rerunfilecheck)             Checksum: 724732F5D47A803AD13E3334F8757AB2;4380.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                tesis
@@ -1763,17 +1764,17 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  28908 strings out of 474423
- 557723 string characters out of 5751521
+ 557717 string characters out of 5751521
  1954496 words of memory out of 5000000
- 50799 multiletter control sequences out of 15000+600000
+ 50798 multiletter control sequences out of 15000+600000
  599656 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,32n,81p,1284b,3038s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/M
 iKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on tesis.pdf (22 pages, 647722 bytes).
+Output written on tesis.pdf (23 pages, 650533 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
+ 291 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
  247 words of extra memory for PDF output out of 10000 (max. 10000000)
 

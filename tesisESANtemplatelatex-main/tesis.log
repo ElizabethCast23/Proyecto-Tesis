@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  26 APR 2024 18:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  29 APR 2024 18:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1322,17 +1322,17 @@ LaTeX Warning: Citation 'cancer_diagnostico' on page 11 undefined on input line
 LaTeX Warning: Citation 'cancer_diagnostico' on page 11 undefined on input line
  44.
 
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
 [11 <./1/figures/cancer_diagnostico.JPG>]
-LaTeX Info: Redefining \. on input line 124.
-LaTeX Info: Redefining \% on input line 124.
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
  [12]
-LaTeX Info: Redefining \. on input line 178.
-LaTeX Info: Redefining \% on input line 178.
+LaTeX Info: Redefining \. on input line 163.
+LaTeX Info: Redefining \% on input line 163.
  [13]
-LaTeX Info: Redefining \. on input line 197.
-LaTeX Info: Redefining \% on input line 197.
+LaTeX Info: Redefining \. on input line 192.
+LaTeX Info: Redefining \% on input line 192.
  [14])
 LaTeX Info: Redefining \. on input line 194.
 LaTeX Info: Redefining \% on input line 194.
@@ -1375,13 +1375,28 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
 
+Underfull \hbox (badness 1838) in paragraph at lines 39--39
+\OT1/ptm/m/n/10.95 por compu-tado-ra que per-mi-ta
+ []
+
+
 Underfull \hbox (badness 2343) in paragraph at lines 39--39
 []|\OT1/ptm/m/n/10.95 La apli-ca-ci[]on de t[]ecni-cas de
  []
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 46--46
-[]|\OT1/ptm/m/n/10.95 Determinar los ti-pos de ca-
+Underfull \hbox (badness 3375) in paragraph at lines 46--46
+\OT1/ptm/m/n/10.95 Lear-ning en la de-tec-ci[]on de
+ []
+
+
+Underfull \hbox (badness 3826) in paragraph at lines 46--46
+[]|\OT1/ptm/m/n/10.95 Realizar un eva-lu-ci[]on dras-ti-
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 46--46
+\OT1/ptm/m/n/10.95 ca ha-cie-do uso de las m[]etri-
  []
 
 
@@ -1405,7 +1420,7 @@ Overfull \hbox (11.42305pt too wide) in paragraph at lines 31--55
  []
 
 
-LaTeX Warning: Float too large for page by 109.09428pt on input line 57.
+LaTeX Warning: Float too large for page by 179.81444pt on input line 57.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1772,7 +1787,7 @@ Here is how much of TeX's memory you used:
  66i,32n,81p,1284b,3038s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/M
 iKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on tesis.pdf (23 pages, 650533 bytes).
+Output written on tesis.pdf (23 pages, 651845 bytes).
 PDF statistics:
  291 PDF objects out of 1000 (max. 8388607)
  58 named destinations out of 1000 (max. 500000)

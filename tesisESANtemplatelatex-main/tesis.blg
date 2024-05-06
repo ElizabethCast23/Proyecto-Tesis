@@ -11,6 +11,8 @@ Reallocating 'name_of_file' (item size: 1) to 22 items.
 A level-1 auxiliary file: 0/agradecimientos.aux
 Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: 1/planteamiento.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: 2/marco.aux
 Reallocating 'name_of_file' (item size: 1) to 17 items.
 A level-1 auxiliary file: anexos/anexo.aux
 I found no \citation commands---while reading file tesis.aux
@@ -18,7 +20,7 @@ I found no \bibdata command---while reading file tesis.aux
 I found no \bibstyle command---while reading file tesis.aux
 You've used 0 entries,
             0 wiz_defined-function locations,
-            89 strings with 583 characters,
+            90 strings with 594 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0

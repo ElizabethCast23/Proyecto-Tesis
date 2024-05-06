@@ -21,8 +21,22 @@
 \contentsline {subsection}{\numberline {1.6.1}Espacial}{15}{subsection.1.6.1}%
 \contentsline {subsection}{\numberline {1.6.2}Temporal}{15}{subsection.1.6.2}%
 \contentsline {subsection}{\numberline {1.6.3}Conceptual}{15}{subsection.1.6.3}%
-\contentsline {chapter}{Anexos}{16}{section*.7}%
-\contentsline {chapter}{\numberline {A}Anexo I: Árbol de Problema }{17}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {B}Anexo II: Árbol de Objetivo}{18}{appendix.Alph2}%
-\contentsline {chapter}{\numberline {C}Anexo II: Matriz de Consistencia}{19}{appendix.Alph3}%
-\contentsline {chapter}{\numberline {D}Anexo II: Resumen de Papers investigados}{21}{appendix.Alph4}%
+\contentsline {chapter}{\numberline {2}MARCO TEÓRICO}{16}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Antecedentes de la investigación}{16}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Copper price estimation using bat algorithm \citep *{pr_dehghani2018copper}}{16}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}Planteamiento del Problema y objetivo }{16}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.2}Técnicas empleadas por los autores}{16}{subsubsection.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.1.3}Metodología empleada por los autores}{17}{subsubsection.2.1.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.1.4}Resultados obtenidos}{17}{subsubsection.2.1.1.4}%
+\contentsline {section}{\numberline {2.2}Bases Teóricas}{17}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Cáncer de Piel Melanoma}{17}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Diagnóstico Temprano}{17}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Computer Vision}{18}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Deep Learning}{18}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Extracción de Características}{18}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Marco Conceptual}{18}{section.2.3}%
+\contentsline {chapter}{Anexos}{19}{section*.7}%
+\contentsline {chapter}{\numberline {A}Anexo I: Árbol de Problema }{20}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Anexo II: Árbol de Objetivo}{21}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {C}Anexo II: Matriz de Consistencia}{22}{appendix.Alph3}%
+\contentsline {chapter}{\numberline {D}Anexo II: Resumen de Papers investigados}{24}{appendix.Alph4}%

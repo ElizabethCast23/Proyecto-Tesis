@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  6 MAY 2024 17:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  27 MAY 2024 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -719,6 +719,10 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \colbreak@box=\box97
 \mc@col@check@num=\count437
 )
+(C:\Program Files\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write4
+
+Excluding comment 'comment')
 (C:\Program Files\MiKTeX\tex/latex/tocbibind\tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
@@ -998,7 +1002,7 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-42.
+43.
 
 (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -1011,27 +1015,59 @@ LaTeX Warning: Unused global option(s):
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
  (0/resumen.aux) (0/abstract.aux) (0/dedicacion.aux)
-(0/agradecimientos.aux) (1/planteamiento.aux) (2/marco.aux) (anexos/anexo.aux))
+(0/agradecimientos.aux) (1/planteamiento.aux) (2/marco.aux
+
+LaTeX Warning: Label `1:fig' multiply defined.
+
+
+LaTeX Warning: Label `1:fig' multiply defined.
+
+
+LaTeX Warning: Label `1:fig' multiply defined.
+
+
+LaTeX Warning: Label `1:fig' multiply defined.
+
+
+LaTeX Warning: Label `1:fig' multiply defined.
+
+
+LaTeX Warning: Label `1:fig' multiply defined.
+
+
+LaTeX Warning: Label `1:fig' multiply defined.
+
+
+LaTeX Warning: Label `1:fig' multiply defined.
+
+
+LaTeX Warning: Label `1:fig' multiply defined.
+
+
+LaTeX Warning: Label `1:fig' multiply defined.
+
+) (anexos/anexo.aux))
 \openout1 = `tesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1066,8 +1102,8 @@ LaTeX Font Info:    ... okay on input line 142.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 142.
-LaTeX Info: Redefining \% on input line 142.
+LaTeX Info: Redefining \. on input line 143.
+LaTeX Info: Redefining \% on input line 143.
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
 Package biblatex Info: ... file 'spanish-apa.lbx' found.
 (C:\Program Files\MiKTeX\tex/latex/biblatex-apa\spanish-apa.lbx
@@ -1092,13 +1128,13 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'tesis.bbl' found.
  (tesis.bbl)
-Package biblatex Info: Reference section=0 on input line 142.
-Package biblatex Info: Reference segment=0 on input line 142.
-Package hyperref Info: Link coloring ON on input line 142.
+Package biblatex Info: Reference section=0 on input line 143.
+Package biblatex Info: Reference segment=0 on input line 143.
+Package hyperref Info: Link coloring ON on input line 143.
 
 (tesis.out) (tesis.out)
-\@outlinefile=\write4
-\openout4 = `tesis.out'.
+\@outlinefile=\write5
+\openout5 = `tesis.out'.
 
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
@@ -1132,11 +1168,11 @@ File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `spanish'. on input line 142.
-<images_repo/esanlogomin.png, id=167, 100.6962pt x 100.2144pt>
+or `spanish'. on input line 143.
+<images_repo/esanlogomin.png, id=311, 100.6962pt x 100.2144pt>
 File: images_repo/esanlogomin.png Graphic file (type png)
 <use images_repo/esanlogomin.png>
-Package pdftex.def Info: images_repo/esanlogomin.png  used on input line 148.
+Package pdftex.def Info: images_repo/esanlogomin.png  used on input line 149.
 (pdftex.def)             Requested size: 203.83434pt x 202.87491pt.
  [1
 
@@ -1154,7 +1190,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.170 \include{0/resumen}
+l.171 \include{0/resumen}
                           [1
 
 ]
@@ -1227,16 +1263,84 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 
 ]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
-ne 26.
+LaTeX Warning: Citation 'jain2021deep' on page 6 undefined on input line 26.
 
-)
-\tf@toc=\write5
-\openout5 = `tesis.toc'.
 
-LaTeX Info: Redefining \. on input line 188.
-LaTeX Info: Redefining \% on input line 188.
- [6] (tesis.lof
+LaTeX Warning: Citation 'haggenmuller2021skin' on page 6 undefined on input lin
+e 30.
+
+
+LaTeX Warning: Citation 'ali_2021enhanced' on page 6 undefined on input line 34
+.
+
+
+Overfull \hbox (0.76022pt too wide) in paragraph at lines 34--34
+ \OT1/ptm/m/n/12 lu-tio-nal neu-ral net-work with trans-fer lear-ning mo-dels (
+[])[][] [][]  
+ []
+
+
+! LaTeX Error: Unicode character  (U+000B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...{vargas_2021diseno}}{21}{subsection.2.1.4}
+                                                  %
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Citation 'vargas_2021diseno' on page 6 undefined on input line 3
+8.
+
+
+LaTeX Warning: Citation 'murugan_2021diagnosis' on page 6 undefined on input li
+ne 42.
+
+
+Overfull \hbox (65.1639pt too wide) in paragraph at lines 42--42
+ [][] [][][]\OT1/ptm/m/n/12 Diagnosis of skin can-cer using ma-chi-ne lear-ning
+ tech-ni-ques ([])[][] [][]  
+ []
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 6 undefined on input line 
+46.
+
+
+LaTeX Warning: Citation 'khater2023skin' on page 6 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'xin2022improved' on page 6 undefined on input line 54.
+
+
+
+Overfull \hbox (48.19644pt too wide) in paragraph at lines 54--54
+ [][] [][][]\OT1/ptm/m/n/12 An im-pro-ved trans-for-mer net-work for skin can-c
+er clas-si-fi-ca-tion ([])[][] [][]  
+ []
+
+
+LaTeX Warning: Citation 'abdar2021uncertainty' on page 6 undefined on input lin
+e 58.
+
+
+LaTeX Warning: Citation 'chaturvedi2020multi' on page 6 undefined on input line
+ 62.
+
+LaTeX Info: Redefining \sptext on input line 71.
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+[6])
+\tf@toc=\write6
+\openout6 = `tesis.toc'.
+
+LaTeX Info: Redefining \. on input line 189.
+LaTeX Info: Redefining \% on input line 189.
+ [7] (tesis.lof
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1246,49 +1350,55 @@ Overfull \hbox (23.02138pt too wide) in paragraph at lines 5--5
 2019-2022: [][][] [][]  
  []
 
-)
-\tf@lof=\write6
-\openout6 = `tesis.lof'.
 
- [7
+Overfull \hbox (41.72955pt too wide) in paragraph at lines 9--9
+ [][] [][][]\OT1/ptm/m/n/12 Resultados de mo-de-lo DCNN com-pa-ran-do-lo con ot
+ros mo-de-los Fuen-te: [][][] [][]  
+ []
+
+)
+\tf@lof=\write7
+\openout7 = `tesis.lof'.
+
+ [8
 
 ] (tesis.lot
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
-\tf@lot=\write7
-\openout7 = `tesis.lot'.
+\tf@lot=\write8
+\openout8 = `tesis.lot'.
 
- [8
+ [9
 
 ]
 \openout2 = `1/planteamiento.aux'.
 
  (1/planteamiento.tex
 Cap\'{\i }tulo 1.
-<1/figures/Grafico1DiagnosnitoCancer.JPG, id=262, 619.71526pt x 417.9615pt>
+<1/figures/Grafico1DiagnosnitoCancer.JPG, id=452, 619.71526pt x 417.9615pt>
 File: 1/figures/Grafico1DiagnosnitoCancer.JPG Graphic file (type jpg)
 <use 1/figures/Grafico1DiagnosnitoCancer.JPG>
 Package pdftex.def Info: 1/figures/Grafico1DiagnosnitoCancer.JPG  used on input
  line 9.
 (pdftex.def)             Requested size: 339.7262pt x 229.13336pt.
 
-LaTeX Warning: Citation 'stadisitc_cancer' on page 9 undefined on input line 10
-.
+LaTeX Warning: Citation 'stadisitc_cancer' on page 10 undefined on input line 1
+0.
 
 
-LaTeX Warning: Citation 'stadisitc_cancer' on page 9 undefined on input line 10
-.
+LaTeX Warning: Citation 'stadisitc_cancer' on page 10 undefined on input line 1
+0.
 
 
-LaTeX Warning: Citation 'OMS_cancer' on page 9 undefined on input line 16.
+LaTeX Warning: Citation 'OMS_cancer' on page 10 undefined on input line 16.
 
-[9
+[10
 
 
  <./1/figures/Grafico1DiagnosnitoCancer.JPG>]
-<1/figures/radiación_ultravioleta_peru.png, id=268, 1204.5pt x 1505.625pt>
+<1/figures/radiación_ultravioleta_peru.png, id=458, 1204.5pt x 1505.625pt>
 File: 1/figures/radiación_ultravioleta_peru.png Graphic file (type png)
 <use 1/figures/radiación_ultravioleta_peru.png>
 Package pdftex.def Info: 1/figures/radiación_ultravioleta_peru.png  used on in
@@ -1296,22 +1406,22 @@ put line 29.
 (pdftex.def)             Requested size: 226.48413pt x 283.10808pt.
 
 
-LaTeX Warning: Citation 'SENAMHI_uv' on page 10 undefined on input line 30.
+LaTeX Warning: Citation 'SENAMHI_uv' on page 11 undefined on input line 30.
 
 
-LaTeX Warning: Citation 'SENAMHI_uv' on page 10 undefined on input line 30.
+LaTeX Warning: Citation 'SENAMHI_uv' on page 11 undefined on input line 30.
 
 
-LaTeX Warning: Citation 'SENAMHI_uv' on page 10 undefined on input line 37.
+LaTeX Warning: Citation 'SENAMHI_uv' on page 11 undefined on input line 37.
 
 
-LaTeX Warning: Citation 'cancer_diagnostico' on page 10 undefined on input line
+LaTeX Warning: Citation 'cancer_diagnostico' on page 11 undefined on input line
  37.
 
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
-[10 <./1/figures/radiación_ultravioleta_peru.png>]
-<1/figures/cancer_diagnostico.JPG, id=275, 837.72975pt x 386.6445pt>
+[11 <./1/figures/radiación_ultravioleta_peru.png>]
+<1/figures/cancer_diagnostico.JPG, id=465, 837.72975pt x 386.6445pt>
 File: 1/figures/cancer_diagnostico.JPG Graphic file (type jpg)
 <use 1/figures/cancer_diagnostico.JPG>
 Package pdftex.def Info: 1/figures/cancer_diagnostico.JPG  used on input line 4
@@ -1319,98 +1429,506 @@ Package pdftex.def Info: 1/figures/cancer_diagnostico.JPG  used on input line 4
 (pdftex.def)             Requested size: 362.37598pt x 167.25095pt.
 
 
-LaTeX Warning: Citation 'cancer_diagnostico' on page 11 undefined on input line
+LaTeX Warning: Citation 'cancer_diagnostico' on page 12 undefined on input line
  44.
 
 
-LaTeX Warning: Citation 'cancer_diagnostico' on page 11 undefined on input line
+LaTeX Warning: Citation 'cancer_diagnostico' on page 12 undefined on input line
  44.
 
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
-[11 <./1/figures/cancer_diagnostico.JPG>]
+[12 <./1/figures/cancer_diagnostico.JPG>]
 LaTeX Info: Redefining \. on input line 126.
 LaTeX Info: Redefining \% on input line 126.
- [12]
+ [13]
 LaTeX Info: Redefining \. on input line 167.
 LaTeX Info: Redefining \% on input line 167.
- [13]
+ [14]
 LaTeX Info: Redefining \. on input line 196.
 LaTeX Info: Redefining \% on input line 196.
- [14])
-LaTeX Info: Redefining \. on input line 194.
-LaTeX Info: Redefining \% on input line 194.
- [15]
+ [15])
+LaTeX Info: Redefining \. on input line 195.
+LaTeX Info: Redefining \% on input line 195.
+ [16]
 \openout2 = `2/marco.aux'.
 
  (2/marco.tex
 Cap\'{\i }tulo 2.
 (2/1_antecedentes/antecedentes.tex
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 16 undefined on input l
-ine 4.
+LaTeX Warning: Citation 'jain2021deep' on page 17 undefined on input line 5.
 
 
-Overfull \hbox (22.24165pt too wide) in paragraph at lines 4--4
-[]\OT1/ptm/b/n/14.4 Copper pri-ce es-ti-ma-tion using bat al-go-rithm ([]) 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 5.
+
+
+LaTeX Warning: Citation 'jain2021deep' on page 17 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'jain2021deep' on page 17 undefined on input line 6.
+
+[17
+
+
+
+
+]
+<2/figuras/Deep_Learning_Based_Transfer_Learning_imagen_01.png, id=496, 426.844
+68pt x 106.14656pt>
+File: 2/figuras/Deep_Learning_Based_Transfer_Learning_imagen_01.png Graphic fil
+e (type png)
+<use 2/figuras/Deep_Learning_Based_Transfer_Learning_imagen_01.png>
+Package pdftex.def Info: 2/figuras/Deep_Learning_Based_Transfer_Learning_imagen
+_01.png  used on input line 36.
+(pdftex.def)             Requested size: 452.96826pt x 112.65086pt.
+
+
+LaTeX Warning: Citation 'jain2021deep' on page 18 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'jain2021deep' on page 18 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'haggenmuller2021skin' on page 18 undefined on input li
+ne 47.
+
+
+Overfull \hbox (34.98575pt too wide) in paragraph at lines 47--47
+\OT1/ptm/b/n/14.4 ma-tic re-view of stu-dies in-vol-ving hu-man ex-perts ([]) 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 4.
+(hyperref)                removing `\citep' on input line 47.
+
+
+LaTeX Warning: Citation 'haggenmuller2021skin' on page 18 undefined on input li
+ne 48.
+
+
+LaTeX Warning: Citation 'haggenmuller2021skin' on page 18 undefined on input li
+ne 48.
+
+
+Overfull \hbox (9.31618pt too wide) in paragraph at lines 48--49
+\OT1/ptm/m/n/12 la re-vis-ta []Eu-ro-pean Jour-nal of Can-cer[] en el a[]no 202
+1. Es-te fue ti-tu-la-do []
+ []
+
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+[18 <./2/figuras/Deep_Learning_Based_Transfer_Learning_imagen_01.png>]
+<2/figuras/Skin_cancer_classification _imagen_01.png, id=503, 660.21657pt x 274
+.02374pt>
+File: 2/figuras/Skin_cancer_classification _imagen_01.png Graphic file (type pn
+g)
+<use 2/figuras/Skin_cancer_classification _imagen_01.png>
+Package pdftex.def Info: 2/figuras/Skin_cancer_classification _imagen_01.png  u
+sed on input line 76.
+(pdftex.def)             Requested size: 452.96826pt x 188.01036pt.
+
+
+LaTeX Warning: Citation 'haggenmuller2021skin' on page 19 undefined on input li
+ne 77.
+
+
+LaTeX Warning: Citation 'haggenmuller2021skin' on page 19 undefined on input li
+ne 77.
+
+
+LaTeX Warning: Citation 'ali_2021enhanced' on page 19 undefined on input line 8
+9.
+
+
+Overfull \hbox (53.27325pt too wide) in paragraph at lines 89--89
+\OT1/ptm/b/n/14.4 vo-lu-tio-nal neu-ral net-work with trans-fer lear-ning mo-de
+ls ([]) 
+ []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 4.
+(hyperref)                removing `\citep' on input line 89.
 
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 16 undefined on input l
-ine 5.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 89.
 
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 16 undefined on input l
-ine 5.
-
-[16
+LaTeX Warning: Citation 'ali_2021enhanced' on page 19 undefined on input line 9
+0.
 
 
+LaTeX Warning: Citation 'ali_2021enhanced' on page 19 undefined on input line 9
+0.
 
-
-]) (2/2_teoria/base_teo.tex
-
-LaTeX Warning: Citation 'tec_royal2017machine' on page 17 undefined on input li
-ne 2.
-
-
-LaTeX Warning: Citation 'bk_gollapudi2016practical' on page 17 undefined on inp
-ut line 4.
-
-
-LaTeX Warning: Citation 'bk_goyal2018deep' on page 17 undefined on input line 7
-.
-
-
-LaTeX Warning: Citation 'bk_goyal2018deep' on page 17 undefined on input line 9
-.
-
-LaTeX Font Info:    Trying to load font information for OML+ptm on input line 9
-.
-(C:\Program Files\MiKTeX\tex/latex/psnfss\omlptm.fd
-File: omlptm.fd 
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+[19 <./2/figuras/Skin_cancer_classification _imagen_01.png>]
+Excluding 'comment' comment.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 12
+4.
+ (C:\Program Files\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Font shape `OML/ptm/b/n' in size <12> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 9.
+LaTeX Info: Redefining \. on input line 134.
+LaTeX Info: Redefining \% on input line 134.
+
+[20]
+<2/figuras/Problematica_An_enhanced_tecniques_imagen_01.png, id=514, 426.84468p
+t x 106.89937pt>
+File: 2/figuras/Problematica_An_enhanced_tecniques_imagen_01.png Graphic file (
+type png)
+<use 2/figuras/Problematica_An_enhanced_tecniques_imagen_01.png>
+Package pdftex.def Info: 2/figuras/Problematica_An_enhanced_tecniques_imagen_01
+.png  used on input line 137.
+(pdftex.def)             Requested size: 452.96826pt x 113.44978pt.
 
 
-LaTeX Warning: Citation '' on page 17 undefined on input line 9.
+LaTeX Warning: Citation 'ali_2021enhanced' on page 21 undefined on input line 1
+38.
 
-) (2/3_conceptos/marc_conceptual.tex))
-LaTeX Info: Redefining \. on input line 195.
-LaTeX Info: Redefining \% on input line 195.
- [17]
-LaTeX Info: Redefining \. on input line 195.
-LaTeX Info: Redefining \% on input line 195.
- [18] [19
+
+LaTeX Warning: Citation 'ali_2021enhanced' on page 21 undefined on input line 1
+38.
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 138--138
+[]\OT1/ptm/b/n/10.95 Figura 2.3: |\OT1/ptm/m/n/10.95 Re-sul-ta-dos de mo-de-lo 
+DCNN com-pa-ran-do-lo con otros mo-de-los Fuen-te:
+ []
+
+
+! LaTeX Error: Unicode character  (U+000B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 ...etworks (DNN) \citep*{vargas_2021diseno}}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+LaTeX Warning: Citation 'vargas_2021diseno' on page 21 undefined on input line 
+146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 146.
+
+
+LaTeX Warning: Citation 'vargas_2021diseno' on page 21 undefined on input line 
+148.
+
+
+LaTeX Warning: Citation 'vargas_2021diseno' on page 21 undefined on input line 
+148.
+
+Excluding 'comment' comment.
+LaTeX Info: Redefining \. on input line 181.
+LaTeX Info: Redefining \% on input line 181.
+ [21 <./2/figuras/Problematica_An_enhanced_tecniques_imagen_01.png>]
+<2/figuras/Design_tool_the_classification_imagen_01.png, id=520, 249.003pt x 20
+3.889pt>
+File: 2/figuras/Design_tool_the_classification_imagen_01.png Graphic file (type
+ png)
+<use 2/figuras/Design_tool_the_classification_imagen_01.png>
+Package pdftex.def Info: 2/figuras/Design_tool_the_classification_imagen_01.png
+  used on input line 192.
+(pdftex.def)             Requested size: 271.7837pt x 222.5426pt.
+
+
+LaTeX Warning: Citation 'vargas_2021diseno' on page 22 undefined on input line 
+193.
+
+
+LaTeX Warning: Citation 'vargas_2021diseno' on page 22 undefined on input line 
+193.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'murugan_2021diagnosis' on page 22 undefined on input l
+ine 203.
+
+
+Overfull \hbox (111.5492pt too wide) in paragraph at lines 203--203
+[]\OT1/ptm/b/n/14.4 Diagnosis of skin can-cer using ma-chi-ne lear-ning tech-ni
+-ques ([]) 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 203.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 203.
+
+
+LaTeX Warning: Citation 'murugan_2021diagnosis' on page 22 undefined on input l
+ine 205.
+
+
+LaTeX Warning: Citation 'murugan_2021diagnosis' on page 22 undefined on input l
+ine 205.
+
+
+Overfull \hbox (66.66309pt too wide) in paragraph at lines 205--206
+\OT1/ptm/m/n/12 en la re-vis-ta []Mi-cro-pro-ces-sors and Mi-crosys-tems[] en e
+l a[]no 2021. Es-te fue ti-tu-la-do []
+ []
+
+LaTeX Info: Redefining \. on input line 213.
+LaTeX Info: Redefining \% on input line 213.
+[22] Excluding 'comment' comment.
+LaTeX Info: Redefining \. on input line 271.
+LaTeX Info: Redefining \% on input line 271.
+ [23 <./2/figuras/Design_tool_the_classification_imagen_01.png>]
+<2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png, id=530, 325.96782pt x 8
+8.83188pt>
+File: 2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png Graphic file (type 
+png)
+<use 2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png>
+Package pdftex.def Info: 2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png 
+ used on input line 281.
+(pdftex.def)             Requested size: 271.7837pt x 74.072pt.
+
+
+LaTeX Warning: Citation 'murugan_2021diagnosis' on page 24 undefined on input l
+ine 282.
+
+
+LaTeX Warning: Citation 'murugan_2021diagnosis' on page 24 undefined on input l
+ine 282.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 24 undefined on input line
+ 292.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 292.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 292.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 24 undefined on input line
+ 293.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 24 undefined on input line
+ 293.
+
+LaTeX Info: Redefining \. on input line 301.
+LaTeX Info: Redefining \% on input line 301.
+[24 <./2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png>]
+Excluding 'comment' comment.
+<2/figuras/Multiclass_skin_cancer_imagen_01.png, id=537, 347.04657pt x 133.2478
+2pt>
+File: 2/figuras/Multiclass_skin_cancer_imagen_01.png Graphic file (type png)
+<use 2/figuras/Multiclass_skin_cancer_imagen_01.png>
+Package pdftex.def Info: 2/figuras/Multiclass_skin_cancer_imagen_01.png  used o
+n input line 342.
+(pdftex.def)             Requested size: 317.0764pt x 121.74568pt.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 25 undefined on input line
+ 343.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 25 undefined on input line
+ 343.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'khater2023skin' on page 25 undefined on input line 348
+.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 348.
+
+
+LaTeX Warning: Citation 'khater2023skin' on page 25 undefined on input line 349
+.
+
+
+LaTeX Warning: Citation 'khater2023skin' on page 25 undefined on input line 349
+.
+
+LaTeX Info: Redefining \. on input line 350.
+LaTeX Info: Redefining \% on input line 350.
+[25] Excluding 'comment' comment.
+<2/figuras/Skin_cancer_classification_imagen_01.png, id=542, 385.221pt x 186.80
+7pt>
+File: 2/figuras/Skin_cancer_classification_imagen_01.png Graphic file (type png
+)
+<use 2/figuras/Skin_cancer_classification_imagen_01.png>
+Package pdftex.def Info: 2/figuras/Skin_cancer_classification_imagen_01.png  us
+ed on input line 399.
+(pdftex.def)             Requested size: 226.48413pt x 109.83037pt.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 26 undefined on input line
+ 400.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 26 undefined on input line
+ 400.
+
+LaTeX Info: Redefining \. on input line 403.
+LaTeX Info: Redefining \% on input line 403.
+[26 <./2/figuras/Multiclass_skin_cancer_imagen_01.png>]
+
+LaTeX Warning: Citation 'xin2022improved' on page 27 undefined on input line 40
+9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 409.
+
+
+LaTeX Warning: Citation 'xin2022improved' on page 27 undefined on input line 41
+0.
+
+
+LaTeX Warning: Citation 'xin2022improved' on page 27 undefined on input line 41
+0.
+
+
+Overfull \hbox (2.53635pt too wide) in paragraph at lines 410--411
+\OT1/ptm/m/n/12 vis-ta []Com-pu-ters in Bio-logy and Me-di-ci-ne[] en el a[]no 
+2022. Es-te fue ti-tu-la-do []
+ []
+
+LaTeX Info: Redefining \. on input line 438.
+LaTeX Info: Redefining \% on input line 438.
+[27 <./2/figuras/Skin_cancer_classification_imagen_01.png>]
+<2/figuras/An_improved_transformer_network _imagen_01.png, id=553, 359.84438pt 
+x 128.73094pt>
+File: 2/figuras/An_improved_transformer_network _imagen_01.png Graphic file (ty
+pe png)
+<use 2/figuras/An_improved_transformer_network _imagen_01.png>
+Package pdftex.def Info: 2/figuras/An_improved_transformer_network _imagen_01.p
+ng  used on input line 450.
+(pdftex.def)             Requested size: 226.48413pt x 81.02429pt.
+
+
+LaTeX Warning: Citation 'xin2022improved' on page 28 undefined on input line 45
+1.
+
+
+LaTeX Warning: Citation 'xin2022improved' on page 28 undefined on input line 45
+1.
+
+
+LaTeX Warning: Citation 'abdar2021uncertainty' on page 28 undefined on input li
+ne 459.
+
+
+Overfull \hbox (3.16202pt too wide) in paragraph at lines 459--459
+\OT1/ptm/b/n/14.4 way decision-based Ba-ye-sian deep lear-ning ([]) 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 459.
+
+
+LaTeX Warning: Citation 'abdar2021uncertainty' on page 28 undefined on input li
+ne 460.
+
+
+LaTeX Warning: Citation 'abdar2021uncertainty' on page 28 undefined on input li
+ne 460.
+
+
+Overfull \hbox (47.61972pt too wide) in paragraph at lines 460--461
+\OT1/ptm/m/n/12 la re-vis-ta []Com-pu-ters in Bio-logy and Me-di-ci-ne[] en el 
+a[]no 2022. Es-te fue ti-tu-la-do []
+ []
+
+LaTeX Info: Redefining \. on input line 461.
+LaTeX Info: Redefining \% on input line 461.
+[28 <./2/figuras/An_improved_transformer_network _imagen_01.png>]
+LaTeX Info: Redefining \. on input line 486.
+LaTeX Info: Redefining \% on input line 486.
+ [29]
+<2/figuras/Uncertainty_quantification_skin _imagen_01.png, id=563, 1111.7535pt 
+x 175.25475pt>
+File: 2/figuras/Uncertainty_quantification_skin _imagen_01.png Graphic file (ty
+pe png)
+<use 2/figuras/Uncertainty_quantification_skin _imagen_01.png>
+Package pdftex.def Info: 2/figuras/Uncertainty_quantification_skin _imagen_01.p
+ng  used on input line 493.
+(pdftex.def)             Requested size: 362.37598pt x 57.12291pt.
+
+
+LaTeX Warning: Citation 'abdar2021uncertainty' on page 30 undefined on input li
+ne 494.
+
+
+LaTeX Warning: Citation 'abdar2021uncertainty' on page 30 undefined on input li
+ne 494.
+
+
+LaTeX Warning: Citation 'chaturvedi2020multi' on page 30 undefined on input lin
+e 500.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 500.
+
+
+LaTeX Warning: Citation 'chaturvedi2020multi' on page 30 undefined on input lin
+e 501.
+
+
+LaTeX Warning: Citation 'chaturvedi2020multi' on page 30 undefined on input lin
+e 501.
+
+LaTeX Info: Redefining \. on input line 523.
+LaTeX Info: Redefining \% on input line 523.
+[30 <./2/figuras/Uncertainty_quantification_skin _imagen_01.png>]
+<2/figuras/An_improved_network_skin_cancer_classification_imagen_01.png, id=570
+, 1046.10825pt x 432.4155pt>
+File: 2/figuras/An_improved_network_skin_cancer_classification_imagen_01.png Gr
+aphic file (type png)
+<use 2/figuras/An_improved_network_skin_cancer_classification_imagen_01.png>
+Package pdftex.def Info: 2/figuras/An_improved_network_skin_cancer_classificati
+on_imagen_01.png  used on input line 534.
+(pdftex.def)             Requested size: 362.37598pt x 149.79053pt.
+
+
+LaTeX Warning: Citation 'chaturvedi2020multi' on page 31 undefined on input lin
+e 535.
+
+
+LaTeX Warning: Citation 'chaturvedi2020multi' on page 31 undefined on input lin
+e 535.
+
+) (2/2_teoria/base_teo.tex) (2/3_conceptos/marc_conceptual.tex))
+LaTeX Info: Redefining \. on input line 196.
+LaTeX Info: Redefining \% on input line 196.
+ [31 <./2/figuras/An_improved_network_skin_cancer_classification_imagen_01.png>
+]
+LaTeX Info: Redefining \. on input line 196.
+LaTeX Info: Redefining \% on input line 196.
+ [32] [33
 
 
 
@@ -1418,26 +1936,27 @@ LaTeX Info: Redefining \% on input line 195.
 ]
 \openout2 = `anexos/anexo.aux'.
 
- (anexos/anexo.tex
+
+(anexos/anexo.tex
 Anexos A.
-<images_repo/Anexo/Problem Tree Template.jpg, id=325, 1553.805pt x 1116.17pt>
+<images_repo/Anexo/Problem Tree Template.jpg, id=584, 1553.805pt x 1116.17pt>
 File: images_repo/Anexo/Problem Tree Template.jpg Graphic file (type jpg)
 <use images_repo/Anexo/Problem Tree Template.jpg>
 Package pdftex.def Info: images_repo/Anexo/Problem Tree Template.jpg  used on i
 nput line 5.
 (pdftex.def)             Requested size: 362.37598pt x 260.30731pt.
-[20
+[34
 
 
  <./images_repo/Anexo/Problem Tree Template.jpg>]
 Anexos B.
-<images_repo/Anexo/Árbol de Objetivos.jpg, id=330, 1459.4525pt x 1188.44pt>
+<images_repo/Anexo/Árbol de Objetivos.jpg, id=589, 1459.4525pt x 1188.44pt>
 File: images_repo/Anexo/Árbol de Objetivos.jpg Graphic file (type jpg)
 <use images_repo/Anexo/Árbol de Objetivos.jpg>
 Package pdftex.def Info: images_repo/Anexo/Árbol de Objetivos.jpg  used on inp
 ut line 17.
 (pdftex.def)             Requested size: 362.37598pt x 295.07825pt.
-[21
+[35
 
  <./images_repo/Anexo/Árbol de Objetivos.jpg>]
 Anexos C.
@@ -1493,12 +2012,12 @@ LaTeX Warning: Float too large for page by 179.81444pt on input line 57.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[22
+[36
 
 ]
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
- [23]
+ [37]
 Anexos D.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
@@ -1515,42 +2034,76 @@ Overfull \hbox (1.37367pt too wide) in paragraph at lines 73--73
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]|\OT1/ptm/m/n/10 Copper pri-ce es-ti-ma-tion
+[]|\OT1/ptm/m/n/10 Deep Learning-Based
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]|\OT1/ptm/m/n/10 Dehghani
+[]|\OT1/ptm/m/n/10 Satin, J. ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\OT1/ptm/m/n/10 Udit, S.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\OT1/ptm/m/n/10 Ba-la-krush-na,
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 73--73
+\OT1/ptm/m/n/10 Moha-med K.
  []
 
 
 Overfull \hbox (2.92818pt too wide) in paragraph at lines 73--73
-[]|\OT1/ptm/m/n/10 2018| 
+[]|\OT1/ptm/m/n/10 2021| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]|\OT1/ptm/m/n/10 United
+Underfull \hbox (badness 6658) in paragraph at lines 75--75
+[]|\OT1/ptm/m/n/10 Skin can-cer clas-si-fi-ca-tion
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 75--75
-[]|\OT1/ptm/m/n/10 Alternative tech-ni-ques for
+! LaTeX Error: Unicode character ̈ (U+0308)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 ...                          & S. Haggenmu ̈
+                                                  ller, A. Hekler, R.C. Maro...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]|\OT1/ptm/m/n/10 S. Hag-gen-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 75--75
-[]|\OT1/ptm/m/n/10 Cortez, Say-
+\OT1/ptm/m/n/10 mu ller, A.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+\OT1/ptm/m/n/10 He-kler, R.C.
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 75--75
+\OT1/ptm/m/n/10 V.M. Ro-tem-
  []
 
 
 Overfull \hbox (2.92818pt too wide) in paragraph at lines 75--75
-[]|\OT1/ptm/m/n/10 2018| 
- []
-
-
-Underfull \hbox (badness 5592) in paragraph at lines 75--76
-\OT1/ptm/m/n/10 of Mi-ning Scien-ce
+[]|\OT1/ptm/m/n/10 2021| 
  []
 
 
@@ -1559,148 +2112,207 @@ Overfull \hbox (1.37367pt too wide) in paragraph at lines 77--78
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 79--79
-[]|\OT1/ptm/m/n/10 Trastour, Ge-
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/ptm/m/n/10 skin can-cer clas-si-fi-ca-tion
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 79--79
-[]|\OT1/ptm/m/n/10 2016| 
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/ptm/m/n/10 using deep con-vo-lu-tio-nal
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 79--80
-[]|\OT1/ptm/m/n/10 Standfort Uni-ver-sity
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]|\OT1/ptm/m/n/10 Md Shahin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]|\OT1/ptm/m/n/10 Stock Pri-ce Pre-dic-tion
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/ptm/m/n/10 Ha-que, Md
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 81--81
-[]|\OT1/ptm/m/n/10 2018| 
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\OT1/ptm/m/n/10 Mah-bu-bur
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 83--84
-[]|\OT1/ptm/m/n/10 Deep Lear-ning for Stock
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 78--78
+[]|\OT1/ptm/m/n/10 2021| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--84
-[]|\OT1/ptm/m/n/10 Akita, R.,
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]|\OT1/ptm/m/n/10 Rep[]ubli-ca
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--84
-\OT1/ptm/m/n/10 Yoshiha-ra,
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]|\OT1/ptm/m/n/10 Machine Lear-ning
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 84--84
-\OT1/ptm/m/n/10 A., Matsu-ba-
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+\OT1/ptm/m/n/10 with Ap-pli-ca-tions,
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 84--84
-[]|\OT1/ptm/m/n/10 2016| 
+! LaTeX Error: Unicode character  (U+000B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ... the classification of skin cancer images
+                                                  using Deep Neural Networks...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\OT1/ptm/m/n/10 Diana Pao-la
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
-[]|\OT1/ptm/m/n/10 2016 IEEE/ACIS
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\OT1/ptm/m/n/10 Merch[]an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
-\OT1/ptm/m/n/10 15th In-ter-na-tio-
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\OT1/ptm/m/n/10 Var-gas, He-
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 84--86
-\OT1/ptm/m/n/10 nal Con-fe-ren-ce on
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\OT1/ptm/m/n/10 lis Na-va-rro
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
-\OT1/ptm/m/n/10 Com-pu-ter and In-
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\OT1/ptm/m/n/10 B[]aez, Jai-me
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
-\OT1/ptm/m/n/10 for-ma-tion Scien-ce
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\OT1/ptm/m/n/10 Gui-ller-mo
  []
 
 
-Overfull \hbox (1.37367pt too wide) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\OT1/ptm/m/n/10 y Jey-son
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 80--80
+[]|\OT1/ptm/m/n/10 2021| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]|[]\OT1/ptm/m/n/10 iencia y Tec-no-
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 80--81
+\OT1/ptm/m/n/10 log[]^^Pa", n[]ume-ro 21
+ []
+
+
+Overfull \hbox (1.37367pt too wide) in paragraph at lines 83--84
 []|[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
-[]|\OT1/ptm/m/n/10 Stock Pri-ces Pre-dic-tion
+Underfull \hbox (badness 3861) in paragraph at lines 84--84
+[]|\OT1/ptm/m/n/10 Diagnosis of skin can-cer
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 87--88
-\OT1/ptm/m/n/10 per Ar-ti-cles with Ko-rean
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/ptm/m/n/10 using ma-chi-ne lear-ning
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 87--88
-\OT1/ptm/m/n/10 Na-tu-ral Lan-gua-ge Pro-ces-
+Underfull \hbox (badness 5119) in paragraph at lines 84--84
+[]|\OT1/ptm/m/n/10 A. Mu-ru-gan,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
-[]|\OT1/ptm/m/n/10 Yun, Sim,
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/ptm/m/n/10 S. Anu H.
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 88--88
-[]|\OT1/ptm/m/n/10 2019| 
+Underfull \hbox (badness 7168) in paragraph at lines 84--84
+\OT1/ptm/m/n/10 Nair y K.P.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--90
-[]|\OT1/ptm/m/n/10 2019 In-ter-na-tio-nal
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 84--84
+[]|\OT1/ptm/m/n/10 2021| 
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 88--90
-\OT1/ptm/m/n/10 Con-fe-ren-ce on Ar-
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+\OT1/ptm/m/n/10 Mi-crosys-tems en
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--90
-\OT1/ptm/m/n/10 ti-fi-cial In-te-lli-gen-ce
+Underfull \hbox (badness 8038) in paragraph at lines 90--90
+\OT1/ptm/m/n/10 si-fi-ca-tion using Ef-fi-cient-
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 88--90
-\OT1/ptm/m/n/10 in In-for-ma-tion and
+Underfull \hbox (badness 2326) in paragraph at lines 90--90
+[]|\OT1/ptm/m/n/10 K. Ali, Z.A.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--90
-\OT1/ptm/m/n/10 Com-mu-ni-ca-tion
+Underfull \hbox (badness 3029) in paragraph at lines 90--90
+\OT1/ptm/m/n/10 Shaikh, A.A.
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 91--92
-[]|\OT1/ptm/m/n/10 A Method of Op-ti-mi-zing
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ptm/m/n/10 Khan, S.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ptm/m/n/10 Rathod, S.
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 90--90
+[]|\OT1/ptm/m/n/10 2022| 
+ []
+
+
+Underfull \hbox (badness 6658) in paragraph at lines 92--92
+[]|\OT1/ptm/m/n/10 Skin can-cer clas-si-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 92--92
+\OT1/ptm/m/n/10 using ex-plai-na-ble ar-ti-fi-cial
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 92--92
-[]|\OT1/ptm/m/n/10 Jingrui, Z.,
+[]|\OT1/ptm/m/n/10 Khater, T.,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 92--92
-\OT1/ptm/m/n/10 Qin-glin, W.,
+\OT1/ptm/m/n/10 An-sa-ri, S.,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+\OT1/ptm/m/n/10 Hus-sain, A.,
  []
 
 
@@ -1709,116 +2321,224 @@ Overfull \hbox (2.92818pt too wide) in paragraph at lines 92--92
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--94
-[]|\OT1/ptm/m/n/10 2017 32nd Youth
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\OT1/ptm/m/n/10 Miratos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]\OT1/ptm/m/n/10 Ara-bes
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 92--94
-\OT1/ptm/m/n/10 Aca-de-mic An-nual
+[]|\OT1/ptm/m/n/10 revista []Inte-lli-
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 92--94
-\OT1/ptm/m/n/10 Con-fe-ren-ce of Chi-
+Underfull \hbox (badness 6412) in paragraph at lines 92--94
+\OT1/ptm/m/n/10 gent Sys-tems with
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 92--94
-\OT1/ptm/m/n/10 ne-se As-so-cia-tion of
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+\OT1/ptm/m/n/10 Applications.[] el
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
-[]|\OT1/ptm/m/n/10 Qualitative Stock Mar-ket
+Underfull \hbox (badness 4819) in paragraph at lines 92--94
+\OT1/ptm/m/n/10 a[]no 2023 As-so-cia-
  []
 
 
-Underfull \hbox (badness 7558) in paragraph at lines 95--96
-\OT1/ptm/m/n/10 Pre-dic-ting with Com-mon
+Underfull \hbox (badness 2426) in paragraph at lines 92--94
+\OT1/ptm/m/n/10 tion of Au-to-ma-tion
  []
 
 
-Underfull \hbox (badness 5345) in paragraph at lines 95--96
-\OT1/ptm/m/n/10 Know-led-ge Ba-sed Na-tu-re
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
-\OT1/ptm/m/n/10 Lan-gua-ge Pro-ces-sing: A
+Underfull \hbox (badness 6252) in paragraph at lines 95--96
+[]|\OT1/ptm/m/n/10 An im-pro-ved trans-for-mer
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]|\OT1/ptm/m/n/10 Rao, D.,
+[]|\OT1/ptm/m/n/10 C. Xin, Y.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\OT1/ptm/m/n/10 Deng, F.,
+\OT1/ptm/m/n/10 Wang, G.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\OT1/ptm/m/n/10 Jiang, Z.,
+\OT1/ptm/m/n/10 Wang, X.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\OT1/ptm/m/n/10 Zhao, Y.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\OT1/ptm/m/n/10 Dong y M.
  []
 
 
 Overfull \hbox (2.92818pt too wide) in paragraph at lines 96--96
-[]|\OT1/ptm/m/n/10 2015| 
+[]|\OT1/ptm/m/n/10 2022| 
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 96--98
-\OT1/ptm/m/n/10 nal Con-fe-ren-ce on
+Underfull \hbox (badness 4805) in paragraph at lines 96--97
+[]|\OT1/ptm/m/n/10 Computers in Bio-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
-\OT1/ptm/m/n/10 In-te-lli-gent Human-
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\OT1/ptm/m/n/10 Uncertainty quan-ti-fi-ca-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
-\OT1/ptm/m/n/10 Machine Sys-tems
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 in skin can-cer clas-si-fi-
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 99--99
-\OT1/ptm/m/n/10 for Do-cu-ment Re-pre-sen-ta-
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 ca-tion using three-way
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
-[]|\OT1/ptm/m/n/10 Zhao, R.,
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 decision-based Ba-ye-sian
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 99--99
-[]|\OT1/ptm/m/n/10 2018| 
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 Pour-pa-nah,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--101
-[]|\OT1/ptm/m/n/10 IEEE Transac-tions
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 S. Hus-sain,
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 99--101
-\OT1/ptm/m/n/10 on Fuzzy Sys-tems
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 D. Re-za-za-
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 de-gan, L.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 vam-za-deh,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 P. Fie-guth,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 X. Cao, A.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 Khos-ra-vi y
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 98--98
+[]|\OT1/ptm/m/n/10 2021| 
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 98--99
+[]|\OT1/ptm/m/n/10 Computers in Bio-
+ []
+
+
+Overfull \hbox (1.4641pt too wide) in paragraph at lines 100--100
+[]|\OT1/ptm/m/n/10 10| 
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 100--100
+[]|\OT1/ptm/m/n/10 A multi-class skin Can-cer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/ptm/m/n/10 clas-si-fi-ca-tion using deep
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/ptm/m/n/10 con-vo-lu-tio-nal neu-ral net-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]|\OT1/ptm/m/n/10 Saket S.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/ptm/m/n/10 Cha-tur-ve-di,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/ptm/m/n/10 Ji-ten-dra V.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/ptm/m/n/10 Tembhur-ne,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/ptm/m/n/10 Tau-sif Di-
+ []
+
+
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 100--100
+[]|\OT1/ptm/m/n/10 2020| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+[]|\OT1/ptm/m/n/10 Springer Scien-
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 100--101
+\OT1/ptm/m/n/10 ce+Business Me-dia,
+ []
+
+
+LaTeX Warning: Float too large for page by 389.97508pt on input line 105.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [24
+) [38
 
 ]
-LaTeX Info: Redefining \. on input line 208.
-LaTeX Info: Redefining \% on input line 208.
- [25]
+LaTeX Info: Redefining \. on input line 209.
+LaTeX Info: Redefining \% on input line 209.
+ [39]
 
-LaTeX Warning: Empty bibliography on input line 213.
+LaTeX Warning: Empty bibliography on input line 214.
 
 (tesis.aux
 LaTeX Info: Redefining \sptext on input line 12.
@@ -1833,8 +2553,11 @@ L3 programming layer <2024-03-14>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 178A46FC6E9DC47EE8069928B956AB4D;7218.
+(rerunfilecheck)             Checksum: 7759514AB9658A150F1E7B677830AE3E;19706.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                tesis
@@ -1845,23 +2568,20 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29042 strings out of 474423
- 561320 string characters out of 5751521
- 1954496 words of memory out of 5000000
- 50867 multiletter control sequences out of 15000+600000
- 608032 words of font info for 142 fonts, out of 8000000 for 9000
+ 29281 strings out of 474423
+ 568715 string characters out of 5751521
+ 1961496 words of memory out of 5000000
+ 51058 multiletter control sequences out of 15000+600000
+ 603177 words of font info for 129 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,32n,81p,1284b,3514s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/symbo
-l/usyr.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (26 pages, 712163 bytes).
+ 66i,32n,84p,1284b,3514s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><C:/Program File
+s/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/
+urw/times/utmr8a.pfb>
+Output written on tesis.pdf (40 pages, 1872198 bytes).
 PDF statistics:
- 406 PDF objects out of 1000 (max. 8388607)
- 76 named destinations out of 1000 (max. 500000)
- 359 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 662 PDF objects out of 1000 (max. 8388607)
+ 135 named destinations out of 1000 (max. 500000)
+ 697 words of extra memory for PDF output out of 10000 (max. 10000000)
 

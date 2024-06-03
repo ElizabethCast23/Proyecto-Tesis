@@ -2,7 +2,7 @@
 \documentclass[12pt,times]{report}
 \usepackage{mathptmx}%This package supersedes times and mathptm
 \usepackage[a4paper,right=2.54cm,left=2.54cm,top=2.54cm,bottom=2.54cm]{geometry}
-
+\usepackage{longtable}
 %%%%paquete para usar citas de diferentes formatos
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%add al indice
@@ -151,7 +151,7 @@ pdfauthor={autor nombres}]{hyperref}
 		UNIVERSIDAD ESAN \vspace*{1ex} \\
 		FACULTAD DE INGENIERÍA \vspace*{1ex} \\
 		INGENIERÍA DE TECNOLOGÍAS DE INFORMACIÓN Y SISTEMAS\vspace*{8ex} \\
-		\textbf{Desarrollo de un sistema de detección haciendo uso de Deep Learning y visión por computadora para el pre-diagnóstico del Cáncer de Piel de tipo melanoma}
+		\textbf{Desarrollo de un Sistema de detección haciendo uso de Deep Learning y Visión por Computadora para el pre-diagnóstico del Cáncer de Piel de tipo Melanoma}
 		\vspace*{8ex}\\	
 		Trabajo de investigación para el curso de Trabajo de Tesis I 
 		\vspace*{8ex} \\	
@@ -168,10 +168,10 @@ pdfauthor={autor nombres}]{hyperref}
 \renewcommand{\tablename}{Tabla}
 \renewcommand{\listtablename}{Índice de Tablas}
 
-\include{0/resumen}
-\include{0/abstract}
-\include{0/dedicacion}
-\include{0/agradecimientos}
+%\include{0/resumen}
+%\include{0/abstract}
+%\include{0/dedicacion}
+%\include{0/agradecimientos}
 
 % outline
 \tableofcontents            % print the table of contents
@@ -190,10 +190,13 @@ pdfauthor={autor nombres}]{hyperref}
 
 \listoftables  % print list of tables
 
+\input{1/planteamiento}
+\input{2/marco}
 
-
-\include{1/planteamiento}
-\include{2/marco}
+\printbibliography[heading=bibintoc,title={Referencias}]
+\bibliography{biblio/references}
+%\include{1/planteamiento}
+%\include{2/marco}
 %\include{3/metodologia}
 %\include{4/desarrollo}
 %\include{5/resultados}
@@ -211,6 +214,6 @@ pdfauthor={autor nombres}]{hyperref}
 %\bibliographystyle{apalike} % Title is link if provided
 %\renewcommand{\bibname}{BIBLIOGRAFÍA} % changes the header; default: Bibliography
 
-\printbibliography[heading=bibintoc,title={BIBLIOGRAFÍA}]
+%\printbibliography[heading=bibintoc,title={BIBLIOGRAFÍA}]
 %\bibliography{biblio/references} % adjust this to fit your BibTex file
 \end{document}

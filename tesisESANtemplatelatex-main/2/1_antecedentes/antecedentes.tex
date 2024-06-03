@@ -11,8 +11,6 @@ El estudio se enfocó en mejorar el diagnóstico temprano del cáncer de piel, q
 
 
 \subsubsection{Metodología empleada por los autores}
-
-
 \newcommand{\TIDLone}{Recopilación de la data: Se uso un conjunto de datos HAM10000 compuesta por 10015 imágenes dermatoscópicas y siete clases diferentes
 }
 
@@ -29,11 +27,11 @@ El estudio se enfocó en mejorar el diagnóstico temprano del cáncer de piel, q
 
 
 \subsubsection{Resultados obtenidos}
-Se concluyó que Xception Net supera al resto de las redes de aprendizaje de transferencia utilizadas en el estudio, con una precisión del 90.48. También tiene los valores más altos de recuperación, precisión y medida F.
+Se concluyó que Xception Net supera al resto de las redes de aprendizaje de transferencia utilizadas en el estudio, con los valores más altos de Accuracy, Avg.Recallm Avg. Precision Av.
 
 \begin{figure}[h]
 	\begin{center}
-		\includegraphics[width=1\textwidth]{2/figuras/Deep_Learning_Based_Transfer_Learning_imagen_01.png}
+		\includegraphics[width=0.8\textwidth]{2/figuras/Deep_Learning_Based_Transfer_Learning_imagen_01.png}
 		\caption{Comparación de los resultados de los modelos utilizados. Fuente: \cite{jain2021deep}}
 		\label{1:fig}
 	\end{center}
@@ -119,6 +117,7 @@ Se hizo 3 diviciones del conjunto de datos: entrenamiento, validación y prueba 
 }
 
 
+
 \begin{itemize}
 	\item \MEone
 	\item \MEtwo
@@ -127,6 +126,13 @@ Se hizo 3 diviciones del conjunto de datos: entrenamiento, validación y prueba 
 
 \end{itemize}
 
+\begin{figure}[h]
+	\begin{center}
+		\includegraphics[width=0.8\textwidth]{2/figuras/Problematica_An_enhanced_tecniques_imagen_02.png}
+		\caption{Modelo de arquitectura propuesto DCNN .Fuente: \cite{ali_2021enhanced}}
+		\label{1:fig}
+	\end{center}
+\end{figure}
 
 
 \subsubsection{Resultados obtenidos}
@@ -272,13 +278,22 @@ Luego, emplearon varios clasificadores de aprendizaje automático: PNN, SVM, Ran
 	\item \MEDSfour
 \end{itemize}
 
+\begin{figure}[h]
+	\begin{center}
+		\includegraphics[width=0.6\textwidth]{2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_02.png}
+		\caption{Grafica de la Metodología usada . Fuente: \cite{murugan_2021diagnosis}}
+		\label{1:fig}
+	\end{center}
+\end{figure}
+
+
 
 \subsubsection{Resultados obtenidos}
 El rendimiento de los modelos que se emplearon se evaluó en términos de métricas como precisión, sensibilidad y especificidad
 Dado como resultado que el mejor clasificador fue la combinación de SVM y Random Forest (SVM+RF) usando un extractor de características GLCM dando un accuracy de 89.31\% 
 \begin{figure}[h]
 	\begin{center}
-		\includegraphics[width=0.6\textwidth]{2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png}
+		\includegraphics[width=0.75\textwidth]{2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png}
 		\caption{Comparación de los modelo empleados con las  tres técnicas para la extracción de características. Fuente: \cite{murugan_2021diagnosis}}
 		\label{1:fig}
 	\end{center}
@@ -339,7 +354,7 @@ Según la tabla de resultados se concluyó que  el modelo EfficientNet B4 logró
 
 \begin{figure}[h]
 	\begin{center}
-		\includegraphics[width=0.7\textwidth]{2/figuras/Multiclass_skin_cancer_imagen_01.png}
+		\includegraphics[width=0.8\textwidth]{2/figuras/Multiclass_skin_cancer_imagen_01.png}
 		\caption{Comparación de los modelo empleados con las  tres técnicas para la extracción de características. Fuente: \cite{ali_2022multiclass}}
 		\label{1:fig}
 	\end{center}
@@ -396,7 +411,7 @@ El modelo XG-boost como para el Random Forest alcanzó una precisión del min de
 
 \begin{figure}[h]
 	\begin{center}
-		\includegraphics[width=0.5\textwidth]{2/figuras/Skin_cancer_classification_imagen_01.png}
+		\includegraphics[width=0.6\textwidth]{2/figuras/Skin_cancer_classification_imagen_01.png}
 		\caption{Comparación de los modelo empleados con las  tres técnicas para la extracción de características. Fuente: \cite{ali_2022multiclass}}
 		\label{1:fig}
 	\end{center}
@@ -447,7 +462,7 @@ El modelo VIT logró un AUC de 0.987, una precisión de 0.941 en el conjunto de 
 
 \begin{figure}[h]
 	\begin{center}
-		\includegraphics[width=0.5\textwidth]{2/figuras/An_improved_transformer_network _imagen_01.png}
+		\includegraphics[width=0.9\textwidth]{2/figuras/An_improved_transformer_network _imagen_01.png}
 		\caption{Resultados de los Modelo empleados. Fuente: \cite{xin2022improved}}
 		\label{1:fig}
 	\end{center}
@@ -490,7 +505,7 @@ En resumen el modelo TWDBDL propuesto logró buenos resultados de precisión, F1
 
 \begin{figure}[h]
 	\begin{center}
-		\includegraphics[width=0.8\textwidth]{2/figuras/Uncertainty_quantification_skin _imagen_01.png}
+		\includegraphics[width=1\textwidth]{2/figuras/Uncertainty_quantification_skin _imagen_01.png}
 		\caption{Resultados de los Modelo empleados. Fuente: \cite{abdar2021uncertainty}}
 		\label{1:fig}
 	\end{center}
@@ -501,6 +516,16 @@ En resumen el modelo TWDBDL propuesto logró buenos resultados de precisión, F1
 \citeauthor{chaturvedi2020multi} realizaron un artículo de investigación el cual fue publicado en «Springer Science+Business Media, LLC, part of Springer Nature 2020» en el año 2020. Este fue titulado \citetitle{chaturvedi2020multi} la cual traducida al español significa «Una clasificación de cáncer de piel de múltiples clases utilizando redes neuronales convolucionales profundasl».
 
 \subsubsection{Planteamiento del Problema y objetivo}
+
+
+El estudio se enfoca en relaizar una clasificación precisa de diferentes tipos de cáncer de piel utilizando técnicas de aprendizaje profundo, ya que se requiere un diagnóstico temprano y preciso para asegurar un tratamiento efectivo para los pacientes. 
+Por ello, la investigación, busca desarrollar un sistema basado en aprendizaje profundo que clasifique múltiples clases de cáncer de piel con alta precisión, apoyando la mejorar, eficiencia y precisión del diagnóstico, lo que en última instancia resultará en una atención médica superior para los pacientes con cáncer de piel. 
+ 
+ %Esta innovación promete transformar el proceso diagnóstico, haciéndolo más rápido y uniforme.
+
+
+
+
 
 
 \subsubsection{Metodología empleada por los autores}

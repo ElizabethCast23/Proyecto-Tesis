@@ -53,34 +53,28 @@ Esto principalmente por la complejidad de poder identificarlo, algunas razones s
 
 
 
-
 \section{Formulación del Problema}
 
 Para realizar la formulación de los problemas del presente trabajo, se elaboró un árbol de problemas (Anexo \ref{1:arbolProblema}).
 
 \subsection{Problema General}
 \newcommand{\ProblemaGeneral}{
-
-
-¿Es posible realizar una detección temprana de cáncer de piel en el Perú  haciendo uso de técnicas de Deep Learning y computer vision que identifique Cáncer de Piel de tipo melanoma partir de imágenes?
+¿Es posible realizar un pre-diagnostico de cáncer de piel en el Perú  haciendo uso de técnicas de Deep Learning y computer vision que identifique el Cáncer de Piel de tipo melanoma partir de imágenes dermatológicas?
 
 }
 \ProblemaGeneral
 \subsection{Problemas Espec\'{i}ficos}
 \newcommand{\Pbone}{
-¿Cuáles son los algoritmos de Deep Learning que pueden clasificar con precisión los melanomas y no melanomas entre pacientes peruanos?
+¿Cuáles son los algoritmos de Deep Learning que pueden clasificar con precisión el cáncer de piel de tipo melanoma en imágenes dermatológicas?
 }
 \newcommand{\Pbtwo}{
-¿Cómo evaluar y medir la precisión de los modelos de Deep Learning en la detección de cáncer de piel de tipo melanomas y no melanomas entre pacientes peruanos? 
+¿Cómo evaluar la precisión de los modelos de Deep Learning en la detección de cáncer de piel de tipo melanoma?
 }
 \newcommand{\Pbthree}{
-¿Qué tipo de ruido pude haber en las imagenes que dificulté la clasificación de los melanomas y no melanomas entre pacientes peruanos?
+¿Qué tipo de ruido pude haber en las imágenes dermatológicas que dificulté la detección del  cáncer de piel de tipo melanoma? 
 }
 \newcommand{\Pbfour}{
-¿ Qué alternativas se proponen en los trabajos previos para seleccionar características y desarrollar el marco de trabajo de la investigación?
-}
-\newcommand{\Pbfive}{
-¿Cuál es la influencia de las condiciones ambientales y geográficas específicas de Perú en el tratamiento del cáncer de piel?
+¿Cómo afecta la disponibilidad de la base de datos de imágenes dermatológicas en el desarrollo de un sistema de detección del  cáncer de piel de tipo melanoma?
 }
 
 \begin{itemize}
@@ -88,7 +82,6 @@ Para realizar la formulación de los problemas del presente trabajo, se elaboró
 	\item \Pbtwo
 	\item \Pbthree
 	\item \Pbfour
-	\item \Pbfive
 \end{itemize}
 
 \section{Objetivos de la Investigación}
@@ -98,72 +91,60 @@ Para realizar la formulación de los problemas del presente trabajo, se elaboró
 
 \subsection{Objetivo General}
 \newcommand{\ObjetivoGeneral}{
-Desarrollar un sistema de detección de cáncer de piel mediante el uso de técnicas de Deep Learning y visión por computadora que permita identificar lesiones dermatológicas a partir de imágenes, para realizar una detección temprana.
-
-%%Determinar cuál de las herramientas propuestas en los trabajos previos es la más precisa y confiable en la detección utilizando imágenes dermatoscopias de pacientes peruanos
-
+Desarrollar un sistema que identifique el cáncer de piel de tipo melanoma a partir de imágenes dermatológicas mediante el uso de técnicas de Deep Learning y computer vision.
 }
 \ObjetivoGeneral
 \subsection{Objetivos Espec\'{i}ficos}
 \newcommand{\Objone}{
-Identificar y comparar los algoritmos de Deep Learning más adecuados para la clasificación de melanomas y no melanomas en imágenes dermatoscópicas de pacientes del Perú.
+Identificar los algoritmos de Deep Learning más adecuados para la clasificación del Cáncer de Piel de tipo melanoma en imágenes dermatológicas.
 }
 \newcommand{\Objtwo}{
-Desarrollar un marco de evaluación que incluya métricas como precisión, sensibilidad, especificidad, valor predictivo positivo(VPP), acurancy y curvas ROC, con la finalidad de evaluar el rendimiento de los modelos de Deep Learning en la detección de melanoma y no melanoma de pacientes del Perú.
+Identificar que métricas usar para evaluar el rendimiento del modelo de Deep Learning en la detección del cáncer de piel de tipo melanoma
 }
 \newcommand{\Objthree}{
-Identificar y evaluar el impacto de estos ruidos en la precisión de la clasificación de melanomas y no melanomas de pacientes del Perú.
+Identificar que preprocesamiento reduce el impacto de los diferentes tipos de ruidos encontrados en las imágenes dermatológicas de cáncer de piel de tipo melanoma.
 }
 \newcommand{\Objfour}{
-Analizar los diferentes enfoques utilizados en investigaciones anteriores con la finalidad de desarrollar marcos de trabajo efectivos para la clasificación de melanomas y no melanomas de pacientes del Perú.
+Identificar la base de datos de imágenes dermatológicas, mejorara  el desarrollo del modelo de detección del  cáncer de piel de tipo melanoma.
 }
-\newcommand{\Objfive}{
-Analizar cómo las condiciones ambientales y geográficas pueden afectar los melanomas y no melanomas de pacientes del Perú.
-}
+
 
 \begin{itemize}
 	\item {\Objone}
 	\item {\Objtwo}
 	\item {\Objthree}
 	\item {\Objfour}
-	\item {\Objfive}
 \end{itemize}
 
-
 \section{Hipótesis}
-
 \subsection{Hipótesis General}
 \newcommand{\HipotesisGeneral}{
-La aplicación de técnicas de Deep Learning en el análisis de imágenes dermatoscópicas permitirá entrenar un modelo capaz de identificar características específicas asociadas con el cáncer de piel con una precisión igual o superior a la de los dermatólogos especializados, facilitando la detección temprana de esta enfermedad
-
+La aplicación de técnicas de Deep Learning en el análisis de imágenes dermatológicas permitirá entrenar un modelo capaz de identificar  el cáncer de piel de tipo melanoma.
 }
 \HipotesisGeneral
 \subsection{Hipótesis Específicas}
 \newcommand{\Hone}{
-	La implementación del algoritmo de Deep Learning adecuado permitirá calcificar con alta precisión los tipos de cáncer de piel melanomas y no melanomas
+La implementación del algoritmo de Deep Learning adecuado permitirá clasificar con  precisión el Cáncer de Piel de tipo melanoma en imágenes dermatológicas.
 	
 }
 \newcommand{\Htwo}{
-Realizar un evalución drastica haciedo uso de las métricas nos proporcionara una mejor comprencion de los modelos de Deep Learning en la detección de cáncer de piel melanoma y no melanoma.
+Indentificar las métricas nos proporcionara una mejor evaluación del modelo de Deep Learning en la detección de cáncer de piel de tipo melanoma.
 	
 }
 \newcommand{\Hthree}{
-	Identificar los tipos de ruidos en las imágenes dermatológicas permitirá tener un modelo con mayor precisión
+Identificar los tipos de ruidos en las imágenes dermatológicas permitirá tener un modelo con mayor precisión en la  detección de cáncer de piel de tipo melanoma.
 		
 }
 \newcommand{\Hfour}{
-	Análisis de trabajos previos para el desarrollo de métodos efectivos con la finalidad de mejorar la eficiencia de los modelos.
+Indentificar la base de datos de imágenes dermatológicas mejora la precisión en la  detección del  cáncer de piel de tipo melanoma.
 	
 }
-\newcommand{\Hfive}{
-	Influencia de las condiciones ambientales y geográficas influye en el cáncer de tipo melanomas y no melanomas de pacientes del Perú.
-}
+
 \begin{itemize}
 	\item \Hone
 	\item \Htwo
 	\item \Hthree
 	\item \Hfour
-	\item \Hfive
 \end{itemize}
 
 \subsection{Matriz de Consistencia}

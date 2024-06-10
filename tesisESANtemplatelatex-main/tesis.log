@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  10 JUN 2024 13:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  10 JUN 2024 14:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2550,23 +2550,20 @@ LaTeX Info: Redefining \. on input line 212.
 LaTeX Info: Redefining \% on input line 212.
  [45]
 
-LaTeX Warning: Empty bibliography on input line 215.
-
-
 ! LaTeX Error: Can be used only in preamble.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.216 \bibliography
-                   {/references} % adjust this to fit your BibTex file
+l.218 \bibliography
+                   {biblio/references.bib}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Info: Redefining \. on input line 217.
-LaTeX Info: Redefining \% on input line 217.
+LaTeX Info: Redefining \. on input line 220.
+LaTeX Info: Redefining \% on input line 220.
 [46
 
 
@@ -2609,7 +2606,7 @@ Here is how much of TeX's memory you used:
 m Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><C:/Program File
 s/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/
 urw/times/utmr8a.pfb>
-Output written on tesis.pdf (47 pages, 7592846 bytes).
+Output written on tesis.pdf (47 pages, 7592858 bytes).
 PDF statistics:
  764 PDF objects out of 1000 (max. 8388607)
  160 named destinations out of 1000 (max. 500000)

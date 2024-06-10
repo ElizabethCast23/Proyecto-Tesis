@@ -16,7 +16,7 @@
 %citestyle=authoryear,
 natbib=true,
 backend=biber]{biblatex}
-\addbibresource{biblio/references.bib}
+%\addbibresource{references.bib}
 %\usepackage{biblatex}
 %paquete para hiperlinks entre citas e imagenes
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -37,7 +37,7 @@ pdfauthor={autor nombres}]{hyperref}
 \usepackage[perpage]{footmisc}
 %\usepackage[round, sort]{natbib}
 \usepackage{ifthen}
- \usepackage{multicol} % for pages with multiple text columns, e.g. References
+\usepackage{multicol} % for pages with multiple text columns, e.g. References
 \usepackage{comment}
 \setlength{\columnsep}{20pt} % space between columns; default 10pt quite narrow
 \usepackage[nottoc]{tocbibind} % correct page numbers for bib in TOC, nottoc suppresses an entry for TOC itself
@@ -141,67 +141,67 @@ pdfauthor={autor nombres}]{hyperref}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
-
+	
 \begin{titlepage}
-
+		
 	\begin{center}
-		%%%cargar imagen
-	    \includegraphics[width=0.45\textwidth]{images_repo/esanlogomin}
-		\vspace*{2cm} \\
-		UNIVERSIDAD ESAN \vspace*{1ex} \\
-		FACULTAD DE INGENIERÍA \vspace*{1ex} \\
-		INGENIERÍA DE TECNOLOGÍAS DE INFORMACIÓN Y SISTEMAS\vspace*{8ex} \\
-		\textbf{Desarrollo de un Sistema de detección haciendo uso de Deep Learning y Visión por Computadora para el pre-diagnóstico del Cáncer de Piel de tipo Melanoma}
-		\vspace*{8ex}\\	
-		Trabajo de investigación para el curso de Trabajo de Tesis I 
-		\vspace*{8ex} \\	
-		Nombre alumno: Castro Tuesta Maria Elizabeth \\
-		Asesor: Marks Calderón		
-		\vfill
-		
-		Lima, \today 
-		
+			%%%cargar imagen
+			\includegraphics[width=0.45\textwidth]{images_repo/esanlogomin}
+			\vspace*{2cm} \\
+			UNIVERSIDAD ESAN \vspace*{1ex} \\
+			FACULTAD DE INGENIERÍA \vspace*{1ex} \\
+			INGENIERÍA DE TECNOLOGÍAS DE INFORMACIÓN Y SISTEMAS\vspace*{8ex} \\
+			\textbf{Desarrollo de un Sistema de detección haciendo uso de Deep Learning y Visión por Computadora para el pre-diagnóstico del Cáncer de Piel de tipo Melanoma}
+			\vspace*{8ex}\\	
+			Trabajo de investigación para el curso de Trabajo de Tesis I 
+			\vspace*{8ex} \\	
+			Nombre alumno: Castro Tuesta Maria Elizabeth \\
+			Asesor: Marks Calderón		
+			\vfill
+			
+			Lima, \today 
+			
 	\end{center}
 \end{titlepage}
-%%cambiar nombres de objetos para el indice y otros
+	%%cambiar nombres de objetos para el indice y otros
 \renewcommand{\listfigurename}{Índice de Figuras}
 \renewcommand{\tablename}{Tabla}
 \renewcommand{\listtablename}{Índice de Tablas}
-
-%\include{0/resumen}
-%\include{0/abstract}
-%\include{0/dedicacion}
-%\include{0/agradecimientos}
-
-% outline
+	
+	%\include{0/resumen}
+	%\include{0/abstract}
+	%\include{0/dedicacion}
+	%\include{0/agradecimientos}
+	
+	% outline
 \tableofcontents            % print the table of contents
-
-%: ----------------------- contents ------------------------
-
+	
+	%: ----------------------- contents ------------------------
+	
 \setcounter{secnumdepth}{3} % organisational level that receives a numbers
 \setcounter{tocdepth}{3}    % print table of contents for level 3
-
-% levels are: 0 - chapter, 1 - section, 2 - subsection, 3 - subsection
-
-
-%: ----------------------- list of figures/tables ------------------------
-
-\listoffigures	% print list of figures
-
+	
+	% levels are: 0 - chapter, 1 - section, 2 - subsection, 3 - subsection
+	
+	
+	%: ----------------------- list of figures/tables ------------------------
+	
+	\listoffigures	% print list of figures
+	
 \listoftables  % print list of tables
-
+	
 \input{1/planteamiento}
 \input{2/marco}
-
-\printbibliography[heading=bibintoc,title={Referencias}]
-\bibliography{biblio/references}
-%\include{1/planteamiento}
-%\include{2/marco}
-%\include{3/metodologia}
-%\include{4/desarrollo}
-%\include{5/resultados}
-%\include{6/conclusion}
-%%Anexos
+	
+	
+	%\bibliography{references}
+	%\include{1/planteamiento}
+	%\include{2/marco}
+	%\include{3/metodologia}
+	%\include{4/desarrollo}
+	%\include{5/resultados}
+	%\include{6/conclusion}
+	%%Anexos
 \appendix
 \renewcommand{\appendixname}{Anexos}
 \renewcommand{\appendixtocname}{Anexos}
@@ -210,10 +210,11 @@ pdfauthor={autor nombres}]{hyperref}
 \addappheadtotoc
 \appendixpage
 \include{anexos/anexo}
-% %%Bibliografia
-%\bibliographystyle{apalike} % Title is link if provided
-%\renewcommand{\bibname}{BIBLIOGRAFÍA} % changes the header; default: Bibliography
+
 
 %\printbibliography[heading=bibintoc,title={BIBLIOGRAFÍA}]
-%\bibliography{biblio/references} % adjust this to fit your BibTex file
+%\bibliography{references} % adjust this to fit your BibTex file
+
+\bibliography{biblio/references.bib}
+%include{1/planteamiento}
 \end{document}

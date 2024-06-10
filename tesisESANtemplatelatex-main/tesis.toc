@@ -35,7 +35,7 @@
 \contentsline {subsubsection}{\numberline {2.1.3.1}Planteamiento del Problema y objetivo}{17}{subsubsection.2.1.3.1}%
 \contentsline {subsubsection}{\numberline {2.1.3.2}Metodología empleada por los autores}{17}{subsubsection.2.1.3.2}%
 \contentsline {subsubsection}{\numberline {2.1.3.3}Resultados obtenidos}{18}{subsubsection.2.1.3.3}%
-\contentsline {subsection}{\numberline {2.1.4}Design of a tool for the classification of skin cancer imagesusing Deep Neural Networks (DNN) \citep *{vargas_2021diseno}}{18}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.4}Design of a tool for the classification of skin cancer images using Deep Neural Networks (DNN) \citep *{vargas_2021diseno}}{18}{subsection.2.1.4}%
 \contentsline {subsubsection}{\numberline {2.1.4.1}Planteamiento del Problema y objetivo}{19}{subsubsection.2.1.4.1}%
 \contentsline {subsubsection}{\numberline {2.1.4.2}Metodología empleada por los autores}{19}{subsubsection.2.1.4.2}%
 \contentsline {subsubsection}{\numberline {2.1.4.3}Resultados obtenidos}{19}{subsubsection.2.1.4.3}%
@@ -65,18 +65,24 @@
 \contentsline {subsubsection}{\numberline {2.1.10.3}Resultados obtenidos}{29}{subsubsection.2.1.10.3}%
 \contentsline {section}{\numberline {2.2}Bases Teóricas}{30}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Inteligencia Artificial}{30}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2} Aprendizaje Automático (Maching Learning)}{30}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Aprendizaje Profundo (Deep Learning}{30}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Computer Vision}{31}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3}Marco Conceptual}{31}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}El Cáncer}{31}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Cáncer de Piel}{31}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Sintomas del Cáncer de Piel}{32}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Tipos del Cáncer de Piel}{32}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}Melanoma}{32}{subsection.2.3.5}%
-\contentsline {subsection}{\numberline {2.3.6}Formas de diagnosticar el cáncer de piel}{33}{subsection.2.3.6}%
-\contentsline {chapter}{Anexos}{34}{section*.19}%
-\contentsline {chapter}{\numberline {A}Anexo I: Árbol de Problema }{35}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {B}Anexo II: Árbol de Objetivo}{36}{appendix.Alph2}%
-\contentsline {chapter}{\numberline {C}Anexo II: Matriz de Consistencia}{37}{appendix.Alph3}%
-\contentsline {chapter}{\numberline {D}Anexo II: Resumen de Papers investigados}{39}{appendix.Alph4}%
+\contentsline {subsection}{\numberline {2.2.2}Features Vectors}{30}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}GLCM (Gray Level Co-occurrence Matrix)}{31}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}Moment Invariant}{31}{subsubsection.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.3}GLRLM (Gray Level Run Length Matrix)}{31}{subsubsection.2.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.3}Aprendizaje Automático (Maching Learning)}{32}{subsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.3.1}K-Nearest Neighbors (KNN)}{32}{subsubsection.2.2.3.1}%
+\contentsline {subsection}{\numberline {2.2.4}Aprendizaje Profundo (Deep Learning)}{33}{subsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.4.1}Deep Neural Networks (DNN)}{33}{subsubsection.2.2.4.1}%
+\contentsline {subsection}{\numberline {2.2.5}Computer Vision}{34}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Marco Conceptual}{34}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}El Cáncer}{34}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Cáncer de Piel}{34}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Sintomas del Cáncer de Piel}{35}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Tipos del Cáncer de Piel}{35}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Melanoma}{36}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Formas de diagnosticar el cáncer de piel}{36}{subsection.2.3.6}%
+\contentsline {chapter}{Anexos}{37}{section*.21}%
+\contentsline {chapter}{\numberline {A}Anexo I: Árbol de Problema }{38}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Anexo II: Árbol de Objetivo}{39}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {C}Anexo II: Matriz de Consistencia}{40}{appendix.Alph3}%
+\contentsline {chapter}{\numberline {D}Anexo II: Resumen de Papers investigados}{43}{appendix.Alph4}%

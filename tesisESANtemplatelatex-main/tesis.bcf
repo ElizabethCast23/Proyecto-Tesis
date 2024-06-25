@@ -3070,7 +3070,7 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">jain2021deep</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">haggenmuller2021skin</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">goceri2023classification</bcf:citekey>
     <bcf:citekey order="3" intorder="1">ali_2021enhanced</bcf:citekey>
     <bcf:citekey order="4" intorder="1">vargas_2021diseno</bcf:citekey>
     <bcf:citekey order="5" intorder="1">murugan_2021diagnosis</bcf:citekey>
@@ -3079,79 +3079,83 @@
     <bcf:citekey order="8" intorder="1">xin2022improved</bcf:citekey>
     <bcf:citekey order="9" intorder="1">abdar2021uncertainty</bcf:citekey>
     <bcf:citekey order="10" intorder="1">chaturvedi2020multi</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">stadisitc_cancer</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">stadisitc_cancer</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">OMS_cancer</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">SENAMHI_uv</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">SENAMHI_uv</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">stadisitc_cancer</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">stadisitc_cancer</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">OMS_cancer</bcf:citekey>
     <bcf:citekey order="33" intorder="1">SENAMHI_uv</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">cancer_diagnostico</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">cancer_diagnostico</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">SENAMHI_uv</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">SENAMHI_uv</bcf:citekey>
     <bcf:citekey order="36" intorder="1">cancer_diagnostico</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">jain2021deep</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">jain2021deep</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">cancer_diagnostico</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">cancer_diagnostico</bcf:citekey>
     <bcf:citekey order="39" intorder="1">jain2021deep</bcf:citekey>
     <bcf:citekey order="40" intorder="1">jain2021deep</bcf:citekey>
     <bcf:citekey order="41" intorder="1">jain2021deep</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">haggenmuller2021skin</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">haggenmuller2021skin</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">haggenmuller2021skin</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">haggenmuller2021skin</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">haggenmuller2021skin</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">ali_2021enhanced</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">ali_2021enhanced</bcf:citekey>
-    <bcf:citekey order="49" intorder="1">ali_2021enhanced</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">ali_2021enhanced</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">jain2021deep</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">jain2021deep</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">goceri2023classification</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">goceri2023classification</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">goceri2023classification</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">goceri2023classification</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">goceri2023classification</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">goceri2023classification</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">goceri2023classification</bcf:citekey>
     <bcf:citekey order="51" intorder="1">ali_2021enhanced</bcf:citekey>
     <bcf:citekey order="52" intorder="1">ali_2021enhanced</bcf:citekey>
     <bcf:citekey order="53" intorder="1">ali_2021enhanced</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">vargas_2021diseno</bcf:citekey>
-    <bcf:citekey order="55" intorder="1">vargas_2021diseno</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">vargas_2021diseno</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">vargas_2021diseno</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">ali_2021enhanced</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">ali_2021enhanced</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">ali_2021enhanced</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">ali_2021enhanced</bcf:citekey>
     <bcf:citekey order="58" intorder="1">vargas_2021diseno</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">murugan_2021diagnosis</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">murugan_2021diagnosis</bcf:citekey>
-    <bcf:citekey order="61" intorder="1">murugan_2021diagnosis</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">murugan_2021diagnosis</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">vargas_2021diseno</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">vargas_2021diseno</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">vargas_2021diseno</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">vargas_2021diseno</bcf:citekey>
     <bcf:citekey order="63" intorder="1">murugan_2021diagnosis</bcf:citekey>
     <bcf:citekey order="64" intorder="1">murugan_2021diagnosis</bcf:citekey>
     <bcf:citekey order="65" intorder="1">murugan_2021diagnosis</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">ali_2022multiclass</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">ali_2022multiclass</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">ali_2022multiclass</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">ali_2022multiclass</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">murugan_2021diagnosis</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">murugan_2021diagnosis</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">murugan_2021diagnosis</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">murugan_2021diagnosis</bcf:citekey>
     <bcf:citekey order="70" intorder="1">ali_2022multiclass</bcf:citekey>
-    <bcf:citekey order="71" intorder="1">khater2023skin</bcf:citekey>
-    <bcf:citekey order="72" intorder="1">khater2023skin</bcf:citekey>
-    <bcf:citekey order="73" intorder="1">khater2023skin</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">ali_2022multiclass</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">ali_2022multiclass</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">ali_2022multiclass</bcf:citekey>
     <bcf:citekey order="74" intorder="1">ali_2022multiclass</bcf:citekey>
-    <bcf:citekey order="75" intorder="1">ali_2022multiclass</bcf:citekey>
-    <bcf:citekey order="76" intorder="1">xin2022improved</bcf:citekey>
-    <bcf:citekey order="77" intorder="1">xin2022improved</bcf:citekey>
-    <bcf:citekey order="78" intorder="1">xin2022improved</bcf:citekey>
-    <bcf:citekey order="79" intorder="1">xin2022improved</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">khater2023skin</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">khater2023skin</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">khater2023skin</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">ali_2022multiclass</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">ali_2022multiclass</bcf:citekey>
     <bcf:citekey order="80" intorder="1">xin2022improved</bcf:citekey>
-    <bcf:citekey order="81" intorder="1">abdar2021uncertainty</bcf:citekey>
-    <bcf:citekey order="82" intorder="1">abdar2021uncertainty</bcf:citekey>
-    <bcf:citekey order="83" intorder="1">abdar2021uncertainty</bcf:citekey>
-    <bcf:citekey order="84" intorder="1">abdar2021uncertainty</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">xin2022improved</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">xin2022improved</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">xin2022improved</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">xin2022improved</bcf:citekey>
     <bcf:citekey order="85" intorder="1">abdar2021uncertainty</bcf:citekey>
-    <bcf:citekey order="86" intorder="1">chaturvedi2020multi</bcf:citekey>
-    <bcf:citekey order="87" intorder="1">chaturvedi2020multi</bcf:citekey>
-    <bcf:citekey order="88" intorder="1">chaturvedi2020multi</bcf:citekey>
-    <bcf:citekey order="89" intorder="1">chaturvedi2020multi</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">abdar2021uncertainty</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">abdar2021uncertainty</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">abdar2021uncertainty</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">abdar2021uncertainty</bcf:citekey>
     <bcf:citekey order="90" intorder="1">chaturvedi2020multi</bcf:citekey>
-    <bcf:citekey order="91" intorder="1">IA_</bcf:citekey>
-    <bcf:citekey order="92" intorder="1">IA_</bcf:citekey>
-    <bcf:citekey order="93" intorder="1">mathworksAnxE1lisisTextura</bcf:citekey>
-    <bcf:citekey order="94" intorder="1">cancer_2024</bcf:citekey>
-    <bcf:citekey order="95" intorder="1">cancer_2024</bcf:citekey>
-    <bcf:citekey order="96" intorder="1">cancer_2024</bcf:citekey>
-    <bcf:citekey order="97" intorder="1">cancer_piel_clinic_2024</bcf:citekey>
-    <bcf:citekey order="98" intorder="1">information_cancer</bcf:citekey>
-    <bcf:citekey order="99" intorder="1">cancer_tipo_melanoma</bcf:citekey>
-    <bcf:citekey order="100" intorder="1">clinica_barcelona</bcf:citekey>
+    <bcf:citekey order="91" intorder="1">chaturvedi2020multi</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">chaturvedi2020multi</bcf:citekey>
+    <bcf:citekey order="93" intorder="1">chaturvedi2020multi</bcf:citekey>
+    <bcf:citekey order="94" intorder="1">chaturvedi2020multi</bcf:citekey>
+    <bcf:citekey order="95" intorder="1">IA_</bcf:citekey>
+    <bcf:citekey order="96" intorder="1">IA_</bcf:citekey>
+    <bcf:citekey order="97" intorder="1">mathworksAnxE1lisisTextura</bcf:citekey>
+    <bcf:citekey order="98" intorder="1">cancer_2024</bcf:citekey>
+    <bcf:citekey order="99" intorder="1">cancer_2024</bcf:citekey>
+    <bcf:citekey order="100" intorder="1">cancer_2024</bcf:citekey>
+    <bcf:citekey order="101" intorder="1">cancer_piel_clinic_2024</bcf:citekey>
+    <bcf:citekey order="102" intorder="1">information_cancer</bcf:citekey>
+    <bcf:citekey order="103" intorder="1">cancer_tipo_melanoma</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">clinica_barcelona</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">kaggleSkinCancer</bcf:citekey>
+    <bcf:citekey order="106" intorder="1">kaggleSkinCancer</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

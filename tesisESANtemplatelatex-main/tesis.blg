@@ -1,11 +1,5 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [1] Config.pm:311> INFO - Logfile is 'tesis.blg'
-[217] biber-MSWIN64:340> INFO - === 
-[273] Biber.pm:420> INFO - Reading 'tesis.bcf'
-[536] Biber.pm:994> INFO - Found 21 citekeys in bib section 0
-[569] Biber.pm:4463> INFO - Processing section 0
-[587] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
-[674] bibtex.pm:1713> INFO - LaTeX decoding ...
-[804] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[1039] Utils.pm:410> ERROR - BibTeX subsystem: C:\Users\ELIZAB~1\AppData\Local\Temp\biber_tmp_0zxK\33e59b5ca9ec342068223d604c3f8d55_28576.utf8, line 262, syntax error: found "art", expected ","
-[1039] Biber.pm:136> INFO - ERRORS: 1
+[533] biber-MSWIN64:340> INFO - === 
+[744] Utils.pm:410> ERROR - tesis.bcf is malformed, last biblatex run probably failed. Deleted tesis.bbl
+[744] Biber.pm:136> INFO - ERRORS: 1

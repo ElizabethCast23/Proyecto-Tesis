@@ -1,27 +1,32 @@
 \babel@toc {spanish}{}\relax 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Predicción de número de casos acumulado de cancer a nivel mundial. Fuente: \blx@tocontentsinit {0}\cite {stadisitc_cancer}}}{7}{figure.caption.4}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Pronóstico de radiación UV. Fuente: \blx@tocontentsinit {0}\cite {SENAMHI_uv}}}{8}{figure.caption.5}%
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Metodo del primer diagnostico DEL CANCER.PERU 2019-2022: \blx@tocontentsinit {0}\cite {cancer_diagnostico}}}{9}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Predicción de número de casos acumulado de cancer a nivel mundial. Fuente: \blx@tocontentsinit {0}\cite {stadisitc_cancer}}}{8}{figure.caption.4}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Pronóstico de radiación UV. Fuente: \blx@tocontentsinit {0}\cite {SENAMHI_uv}}}{9}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Metodo del primer diagnostico DEL CANCER.PERU 2019-2022: \blx@tocontentsinit {0}\cite {cancer_diagnostico}}}{10}{figure.caption.6}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Comparación de los resultados de los modelos utilizados. Fuente: \blx@tocontentsinit {0}\cite {jain2021deep}}}{15}{figure.caption.7}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Represación de los 19 estudios. Fuente: \blx@tocontentsinit {0}\cite {haggenmuller2021skin}}}{16}{figure.caption.8}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Modelo de arquitectura propuesto DCNN .Fuente: \blx@tocontentsinit {0}\cite {ali_2021enhanced}}}{18}{figure.caption.9}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Resultados de modelo DCNN comparandolo con otros modelos Fuente: \blx@tocontentsinit {0}\cite {ali_2021enhanced}}}{18}{figure.caption.10}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Comparacion de los resultados del modelo MobileNet V1 y Inception V3 con diferentes versiones. Fuente: \blx@tocontentsinit {0}\cite {vargas_2021diseno}}}{20}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Grafica de la Metodología usada . Fuente: \blx@tocontentsinit {0}\cite {murugan_2021diagnosis}}}{21}{figure.caption.12}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Comparación de los modelo empleados con las tres técnicas para la extracción de características. Fuente: \blx@tocontentsinit {0}\cite {murugan_2021diagnosis}}}{22}{figure.caption.13}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Comparación de los modelo empleados con las tres técnicas para la extracción de características. Fuente: \blx@tocontentsinit {0}\cite {ali_2022multiclass}}}{23}{figure.caption.14}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Comparación de los modelo empleados con las tres técnicas para la extracción de características. Fuente: \blx@tocontentsinit {0}\cite {ali_2022multiclass}}}{25}{figure.caption.15}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Resultados de los Modelo empleados. Fuente: \blx@tocontentsinit {0}\cite {xin2022improved}}}{26}{figure.caption.16}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Resultados de los Modelo empleados. Fuente: \blx@tocontentsinit {0}\cite {abdar2021uncertainty}}}{28}{figure.caption.17}%
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Resultados de los Modelo empleados. Fuente: \blx@tocontentsinit {0}\cite {chaturvedi2020multi}}}{29}{figure.caption.18}%
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Grafico de IA. Fuente: \blx@tocontentsinit {0}\cite {IA_}}}{30}{figure.caption.19}%
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Ejemplo como el cancer se traslada a otras partes del cuerpo. Fuente: \blx@tocontentsinit {0}\cite {cancer_2024}}}{35}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Comparación de los resultados de los modelos utilizados. Fuente: \blx@tocontentsinit {0}\cite {jain2021deep}}}{16}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Grafico de la Metodología. Fuente: \blx@tocontentsinit {0}\cite {goceri2023classification}}}{17}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Represación de los 19 estudios. Fuente: \blx@tocontentsinit {0}\cite {goceri2023classification}}}{18}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Modelo de arquitectura propuesto DCNN .Fuente: \blx@tocontentsinit {0}\cite {ali_2021enhanced}}}{19}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Resultados de modelo DCNN comparandolo con otros modelos Fuente: \blx@tocontentsinit {0}\cite {ali_2021enhanced}}}{20}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Comparacion de los resultados del modelo MobileNet V1 y Inception V3 con diferentes versiones. Fuente: \blx@tocontentsinit {0}\cite {vargas_2021diseno}}}{21}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Grafica de la Metodología usada . Fuente: \blx@tocontentsinit {0}\cite {murugan_2021diagnosis}}}{23}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Comparación de los modelo empleados con las tres técnicas para la extracción de características. Fuente: \blx@tocontentsinit {0}\cite {murugan_2021diagnosis}}}{23}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Comparación de los modelo empleados con las tres técnicas para la extracción de características. Fuente: \blx@tocontentsinit {0}\cite {ali_2022multiclass}}}{24}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Comparación de los modelo empleados con las tres técnicas para la extracción de características. Fuente: \blx@tocontentsinit {0}\cite {ali_2022multiclass}}}{26}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Resultados de los Modelo empleados. Fuente: \blx@tocontentsinit {0}\cite {xin2022improved}}}{27}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Resultados de los Modelo empleados. Fuente: \blx@tocontentsinit {0}\cite {abdar2021uncertainty}}}{29}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Resultados de los Modelo empleados. Fuente: \blx@tocontentsinit {0}\cite {chaturvedi2020multi}}}{30}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Grafico de IA. Fuente: \blx@tocontentsinit {0}\cite {IA_}}}{31}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Ejemplo como el cancer se traslada a otras partes del cuerpo. Fuente: \blx@tocontentsinit {0}\cite {cancer_2024}}}{36}{figure.caption.21}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Árbol de Problema. Fuente: Elaboración propia}}{38}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Imagén de la Base de Datos. Fuente: \blx@tocontentsinit {0}\cite {kaggleSkinCancer}}}{40}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Imagén de la Base de Datos. Fuente: Elavoracion propia}}{41}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Diagrama de Grantt. Fuente: Elavoración Propia }}{42}{figure.caption.24}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Árbol de Problema. Fuente: Elaboración propia}}{39}{figure.caption.23}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Árbol de Problema. Fuente: Elaboración propia}}{45}{figure.caption.26}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Matriz de consistencia con Indicadores. Fuente: Elaboración propia}}{42}{figure.caption.25}%
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Árbol de Problema. Fuente: Elaboración propia}}{46}{figure.caption.27}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Matriz de consistencia con Indicadores. Fuente: Elaboración propia}}{49}{figure.caption.29}%
 \addvspace {10\p@ }

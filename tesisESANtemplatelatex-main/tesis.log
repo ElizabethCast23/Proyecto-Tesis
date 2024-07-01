@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  24 JUN 2024 18:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.18)  1 JUL 2024 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1540,11 +1540,11 @@ LaTeX Info: Redefining \. on input line 71.
 LaTeX Info: Redefining \% on input line 71.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [2]
 LaTeX Info: Redefining \sptext on input line 96.
@@ -1553,11 +1553,11 @@ LaTeX Info: Redefining \% on input line 96.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [3])
 \tf@toc=\write7
@@ -1568,11 +1568,11 @@ LaTeX Info: Redefining \% on input line 198.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [4] (tesis.lof
 LaTeX Info: Redefining \sptext on input line 1.
@@ -1601,11 +1601,11 @@ LaTeX Info: Redefining \% on input line 200.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [6] (tesis.lot
 LaTeX Info: Redefining \sptext on input line 1.
@@ -1619,7 +1619,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 1.
-<1/figures/Grafico1DiagnosnitoCancer.JPG, id=576, 619.71526pt x 417.9615pt>
+<1/figures/Grafico1DiagnosnitoCancer.JPG, id=578, 619.71526pt x 417.9615pt>
 File: 1/figures/Grafico1DiagnosnitoCancer.JPG Graphic file (type jpg)
 <use 1/figures/Grafico1DiagnosnitoCancer.JPG>
 Package pdftex.def Info: 1/figures/Grafico1DiagnosnitoCancer.JPG  used on input
@@ -1639,7 +1639,7 @@ LaTeX Warning: Citation 'OMS_cancer' on page 8 undefined on input line 16.
 [8
 
  <./1/figures/Grafico1DiagnosnitoCancer.JPG>]
-<1/figures/radiación_ultravioleta_peru.png, id=582, 1204.5pt x 1505.625pt>
+<1/figures/radiación_ultravioleta_peru.png, id=584, 1204.5pt x 1505.625pt>
 File: 1/figures/radiación_ultravioleta_peru.png Graphic file (type png)
 <use 1/figures/radiación_ultravioleta_peru.png>
 Package pdftex.def Info: 1/figures/radiación_ultravioleta_peru.png  used on in
@@ -1663,14 +1663,14 @@ LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [9 <./1/figures/radiación_ultravioleta_peru.png>]
-<1/figures/cancer_diagnostico.JPG, id=589, 837.72975pt x 386.6445pt>
+<1/figures/cancer_diagnostico.JPG, id=591, 837.72975pt x 386.6445pt>
 File: 1/figures/cancer_diagnostico.JPG Graphic file (type jpg)
 <use 1/figures/cancer_diagnostico.JPG>
 Package pdftex.def Info: 1/figures/cancer_diagnostico.JPG  used on input line 4
@@ -1689,11 +1689,11 @@ LaTeX Info: Redefining \. on input line 65.
 LaTeX Info: Redefining \% on input line 65.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [10 <./1/figures/cancer_diagnostico.JPG>]
 LaTeX Info: Redefining \. on input line 116.
@@ -1701,11 +1701,11 @@ LaTeX Info: Redefining \% on input line 116.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [11]
 LaTeX Info: Redefining \. on input line 165.
@@ -1713,11 +1713,11 @@ LaTeX Info: Redefining \% on input line 165.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [12]
 LaTeX Info: Redefining \. on input line 184.
@@ -1725,11 +1725,11 @@ LaTeX Info: Redefining \% on input line 184.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [13]) (2/marco.tex
 LaTeX Info: Redefining \. on input line 1.
@@ -1737,11 +1737,11 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [14]
 Cap\'{\i }tulo 2.
@@ -1762,7 +1762,7 @@ LaTeX Warning: Citation 'jain2021deep' on page 15 undefined on input line 6.
 [15
 
 ]
-<2/figuras/Deep_Learning_Based_Transfer_Learning_imagen_01.png, id=620, 1128.01
+<2/figuras/Deep_Learning_Based_Transfer_Learning_imagen_01.png, id=622, 1128.01
 425pt x 264.99pt>
 File: 2/figuras/Deep_Learning_Based_Transfer_Learning_imagen_01.png Graphic fil
 e (type png)
@@ -1803,133 +1803,138 @@ LaTeX Info: Redefining \. on input line 49.
 LaTeX Info: Redefining \% on input line 49.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [16 <./2/figuras/Deep_Learning_Based_Transfer_Learning_imagen_01.png>]
-<2/figuras/metodo_ultimo.png, id=626, 702.2235pt x 272.217pt>
+<2/figuras/metodo_ultimo.png, id=628, 702.2235pt x 272.217pt>
 File: 2/figuras/metodo_ultimo.png Graphic file (type png)
 <use 2/figuras/metodo_ultimo.png>
-Package pdftex.def Info: 2/figuras/metodo_ultimo.png  used on input line 77.
+Package pdftex.def Info: 2/figuras/metodo_ultimo.png  used on input line 82.
 (pdftex.def)             Requested size: 362.37598pt x 140.47368pt.
 
 
 LaTeX Warning: Citation 'goceri2023classification' on page 17 undefined on inpu
-t line 78.
+t line 83.
 
 
 LaTeX Warning: Citation 'goceri2023classification' on page 17 undefined on inpu
-t line 78.
+t line 83.
 
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
-
-[17 <./2/figuras/metodo_ultimo.png>]
-<2/figuras/resultado_ultimo.png, id=632, 1068.99374pt x 178.86826pt>
+<2/figuras/resultado_ultimo.png, id=629, 1068.99374pt x 178.86826pt>
 File: 2/figuras/resultado_ultimo.png Graphic file (type png)
 <use 2/figuras/resultado_ultimo.png>
-Package pdftex.def Info: 2/figuras/resultado_ultimo.png  used on input line 99.
-
+Package pdftex.def Info: 2/figuras/resultado_ultimo.png  used on input line 104
+.
 (pdftex.def)             Requested size: 362.37598pt x 60.63426pt.
 
+LaTeX Warning: Citation 'goceri2023classification' on page 17 undefined on inpu
+t line 105.
 
-LaTeX Warning: Citation 'goceri2023classification' on page 18 undefined on inpu
-t line 100.
+
+LaTeX Warning: Citation 'goceri2023classification' on page 17 undefined on inpu
+t line 105.
 
 
-LaTeX Warning: Citation 'goceri2023classification' on page 18 undefined on inpu
-t line 100.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 Excluding 'comment' comment.
 
-LaTeX Warning: Citation 'ali_2021enhanced' on page 18 undefined on input line 1
-52.
+LaTeX Warning: Citation 'ali_2021enhanced' on page 17 undefined on input line 1
+57.
 
 
-Overfull \hbox (53.27325pt too wide) in paragraph at lines 152--152
+Overfull \hbox (53.27325pt too wide) in paragraph at lines 157--157
 \OT1/ptm/b/n/14.4 vo-lu-tio-nal neu-ral net-work with trans-fer lear-ning mo-de
 ls ([]) 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 152.
+(hyperref)                removing `\citep' on input line 157.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 152.
+(hyperref)                removing `subscript' on input line 157.
 
 
-LaTeX Warning: Citation 'ali_2021enhanced' on page 18 undefined on input line 1
-53.
+LaTeX Warning: Citation 'ali_2021enhanced' on page 17 undefined on input line 1
+58.
 
 
-LaTeX Warning: Citation 'ali_2021enhanced' on page 18 undefined on input line 1
-53.
+LaTeX Warning: Citation 'ali_2021enhanced' on page 17 undefined on input line 1
+58.
 
-Excluding 'comment' comment.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 18
-8.
- (C:\Program Files\MiKTeX\tex/latex/base\ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-LaTeX Info: Redefining \. on input line 189.
-LaTeX Info: Redefining \% on input line 189.
+LaTeX Info: Redefining \. on input line 159.
+LaTeX Info: Redefining \% on input line 159.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[17] Excluding 'comment' comment.
+LaTeX Info: Redefining \. on input line 193.
+LaTeX Info: Redefining \% on input line 193.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[18 <./2/figuras/resultado_ultimo.png>]
-<2/figuras/Problematica_An_enhanced_tecniques_imagen_02.png, id=639, 1121.3895p
+[18 <./2/figuras/metodo_ultimo.png> <./2/figuras/resultado_ultimo.png>]
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 19
+3.
+
+(C:\Program Files\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+<2/figuras/Problematica_An_enhanced_tecniques_imagen_02.png, id=641, 1121.3895p
 t x 414.348pt>
 File: 2/figuras/Problematica_An_enhanced_tecniques_imagen_02.png Graphic file (
 type png)
 <use 2/figuras/Problematica_An_enhanced_tecniques_imagen_02.png>
 Package pdftex.def Info: 2/figuras/Problematica_An_enhanced_tecniques_imagen_02
-.png  used on input line 196.
+.png  used on input line 201.
 (pdftex.def)             Requested size: 362.37598pt x 133.89648pt.
 
 
-LaTeX Warning: Citation 'ali_2021enhanced' on page 19 undefined on input line 1
-97.
+LaTeX Warning: Citation 'ali_2021enhanced' on page 19 undefined on input line 2
+02.
 
 
-LaTeX Warning: Citation 'ali_2021enhanced' on page 19 undefined on input line 1
-97.
+LaTeX Warning: Citation 'ali_2021enhanced' on page 19 undefined on input line 2
+02.
 
-<2/figuras/Problematica_An_enhanced_tecniques_imagen_01.png, id=640, 1031.052pt
+<2/figuras/Problematica_An_enhanced_tecniques_imagen_01.png, id=642, 1031.052pt
  x 229.45724pt>
 File: 2/figuras/Problematica_An_enhanced_tecniques_imagen_01.png Graphic file (
 type png)
 <use 2/figuras/Problematica_An_enhanced_tecniques_imagen_01.png>
 Package pdftex.def Info: 2/figuras/Problematica_An_enhanced_tecniques_imagen_01
-.png  used on input line 208.
+.png  used on input line 213.
 (pdftex.def)             Requested size: 452.96826pt x 100.80743pt.
 
 LaTeX Warning: Citation 'ali_2021enhanced' on page 19 undefined on input line 2
-09.
+14.
 
 
 LaTeX Warning: Citation 'ali_2021enhanced' on page 19 undefined on input line 2
-09.
+14.
 
 
-Underfull \hbox (badness 5908) in paragraph at lines 209--209
+Underfull \hbox (badness 5908) in paragraph at lines 214--214
 []\OT1/ptm/b/n/10.95 Figura 2.5: |\OT1/ptm/m/n/10.95 Re-sul-ta-dos de mo-de-lo 
 DCNN com-pa-ran-do-lo con otros mo-de-los Fuen-te:
  []
@@ -1939,33 +1944,33 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: Citation 'vargas_2021diseno' on page 19 undefined on input line 
-217.
+222.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 217.
+(hyperref)                removing `\citep' on input line 222.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 217.
+(hyperref)                removing `subscript' on input line 222.
 
 
 LaTeX Warning: Citation 'vargas_2021diseno' on page 19 undefined on input line 
-219.
+224.
 
 
 LaTeX Warning: Citation 'vargas_2021diseno' on page 19 undefined on input line 
-219.
+224.
 
-LaTeX Info: Redefining \. on input line 224.
-LaTeX Info: Redefining \% on input line 224.
+LaTeX Info: Redefining \. on input line 225.
+LaTeX Info: Redefining \% on input line 225.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [19 <./2/figuras/Problematica_An_enhanced_tecniques_imagen_02.png>]
 Excluding 'comment' comment.
@@ -1974,393 +1979,390 @@ LaTeX Info: Redefining \% on input line 259.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [20 <./2/figuras/Problematica_An_enhanced_tecniques_imagen_01.png>]
-<2/figuras/Design_tool_the_classification_imagen_01.png, id=652, 249.003pt x 20
+<2/figuras/Design_tool_the_classification_imagen_01.png, id=654, 249.003pt x 20
 3.889pt>
 File: 2/figuras/Design_tool_the_classification_imagen_01.png Graphic file (type
  png)
 <use 2/figuras/Design_tool_the_classification_imagen_01.png>
 Package pdftex.def Info: 2/figuras/Design_tool_the_classification_imagen_01.png
-  used on input line 263.
+  used on input line 268.
 (pdftex.def)             Requested size: 271.7837pt x 222.5426pt.
 
 
 LaTeX Warning: Citation 'vargas_2021diseno' on page 21 undefined on input line 
-264.
+269.
 
 
 LaTeX Warning: Citation 'vargas_2021diseno' on page 21 undefined on input line 
-264.
+269.
 
 
 LaTeX Warning: Citation 'murugan_2021diagnosis' on page 21 undefined on input l
-ine 274.
+ine 279.
 
 
-Overfull \hbox (111.5492pt too wide) in paragraph at lines 274--274
+Overfull \hbox (111.5492pt too wide) in paragraph at lines 279--279
 []\OT1/ptm/b/n/14.4 Diagnosis of skin can-cer using ma-chi-ne lear-ning tech-ni
 -ques ([]) 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 274.
+(hyperref)                removing `\citep' on input line 279.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 274.
+(hyperref)                removing `subscript' on input line 279.
 
 
 LaTeX Warning: Citation 'murugan_2021diagnosis' on page 21 undefined on input l
-ine 276.
+ine 281.
 
 
 LaTeX Warning: Citation 'murugan_2021diagnosis' on page 21 undefined on input l
-ine 276.
+ine 281.
 
 
-Overfull \hbox (66.66309pt too wide) in paragraph at lines 276--277
+Overfull \hbox (66.66309pt too wide) in paragraph at lines 281--282
 \OT1/ptm/m/n/12 en la re-vis-ta []Mi-cro-pro-ces-sors and Mi-crosys-tems[] en e
 l a[]no 2021. Es-te fue ti-tu-la-do []
  []
 
-LaTeX Info: Redefining \. on input line 286.
-LaTeX Info: Redefining \% on input line 286.
+LaTeX Info: Redefining \. on input line 287.
+LaTeX Info: Redefining \% on input line 287.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [21 <./2/figuras/Design_tool_the_classification_imagen_01.png>]
 Excluding 'comment' comment.
-<2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_02.png, id=658, 705.837pt x 504
+<2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_02.png, id=660, 705.837pt x 504
 .6855pt>
 File: 2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_02.png Graphic file (type 
 png)
 <use 2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_02.png>
 Package pdftex.def Info: 2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_02.png 
- used on input line 348.
+ used on input line 353.
 (pdftex.def)             Requested size: 271.7837pt x 194.33147pt.
 
 
 LaTeX Warning: Citation 'murugan_2021diagnosis' on page 22 undefined on input l
-ine 349.
+ine 354.
 
 
 LaTeX Warning: Citation 'murugan_2021diagnosis' on page 22 undefined on input l
-ine 349.
+ine 354.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png, id=659, 1058.15324pt x 
+<2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png, id=661, 1058.15324pt x 
 275.22826pt>
 File: 2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png Graphic file (type 
 png)
 <use 2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png>
 Package pdftex.def Info: 2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_01.png 
- used on input line 361.
+ used on input line 366.
 (pdftex.def)             Requested size: 339.7262pt x 88.36461pt.
 
 LaTeX Warning: Citation 'murugan_2021diagnosis' on page 22 undefined on input l
-ine 362.
+ine 367.
 
 
 LaTeX Warning: Citation 'murugan_2021diagnosis' on page 22 undefined on input l
-ine 362.
+ine 367.
+
+LaTeX Info: Redefining \. on input line 371.
+LaTeX Info: Redefining \% on input line 371.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[22]
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 23 undefined on input line
+ 377.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\citep' on input line 377.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 377.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 23 undefined on input line
+ 378.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 23 undefined on input line
+ 378.
+
+LaTeX Info: Redefining \. on input line 386.
+LaTeX Info: Redefining \% on input line 386.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[23 <./2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_02.png> <./2/figuras/Tecn
+ica_Diagnosis_skin_cancer_imagen_01.png>] Excluding 'comment' comment.
+<2/figuras/Multiclass_skin_cancer_imagen_01.png, id=672, 994.31474pt x 387.849p
+t>
+File: 2/figuras/Multiclass_skin_cancer_imagen_01.png Graphic file (type png)
+<use 2/figuras/Multiclass_skin_cancer_imagen_01.png>
+Package pdftex.def Info: 2/figuras/Multiclass_skin_cancer_imagen_01.png  used o
+n input line 427.
+(pdftex.def)             Requested size: 362.37598pt x 141.3536pt.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 24 undefined on input line
+ 428.
+
+
+LaTeX Warning: Citation 'ali_2022multiclass' on page 24 undefined on input line
+ 428.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation 'ali_2022multiclass' on page 22 undefined on input line
- 372.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 372.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 372.
-
-
-LaTeX Warning: Citation 'ali_2022multiclass' on page 22 undefined on input line
- 373.
-
-
-LaTeX Warning: Citation 'ali_2022multiclass' on page 22 undefined on input line
- 373.
-
-LaTeX Info: Redefining \. on input line 374.
-LaTeX Info: Redefining \% on input line 374.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
-
-[22]
-LaTeX Info: Redefining \. on input line 383.
-LaTeX Info: Redefining \% on input line 383.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
-
-[23 <./2/figuras/Tecnica_Diagnosis_skin_cancer_imagen_02.png> <./2/figuras/Tecn
-ica_Diagnosis_skin_cancer_imagen_01.png>] Excluding 'comment' comment.
-<2/figuras/Multiclass_skin_cancer_imagen_01.png, id=670, 994.31474pt x 387.849p
-t>
-File: 2/figuras/Multiclass_skin_cancer_imagen_01.png Graphic file (type png)
-<use 2/figuras/Multiclass_skin_cancer_imagen_01.png>
-Package pdftex.def Info: 2/figuras/Multiclass_skin_cancer_imagen_01.png  used o
-n input line 422.
-(pdftex.def)             Requested size: 362.37598pt x 141.3536pt.
-
-
-LaTeX Warning: Citation 'ali_2022multiclass' on page 24 undefined on input line
- 423.
-
-
-LaTeX Warning: Citation 'ali_2022multiclass' on page 24 undefined on input line
- 423.
-
-
-LaTeX Warning: Citation 'khater2023skin' on page 24 undefined on input line 428
+LaTeX Warning: Citation 'khater2023skin' on page 24 undefined on input line 433
 .
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 428.
+(hyperref)                removing `\citep' on input line 433.
 
 
-LaTeX Warning: Citation 'khater2023skin' on page 24 undefined on input line 429
+LaTeX Warning: Citation 'khater2023skin' on page 24 undefined on input line 434
 .
 
 
-LaTeX Warning: Citation 'khater2023skin' on page 24 undefined on input line 429
+LaTeX Warning: Citation 'khater2023skin' on page 24 undefined on input line 434
 .
 
-LaTeX Info: Redefining \. on input line 430.
-LaTeX Info: Redefining \% on input line 430.
+LaTeX Info: Redefining \. on input line 435.
+LaTeX Info: Redefining \% on input line 435.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[24 <./2/figuras/Multiclass_skin_cancer_imagen_01.png>]
-Excluding 'comment' comment.
-<2/figuras/Skin_cancer_classification_imagen_01.png, id=677, 385.221pt x 186.80
+[24] Excluding 'comment' comment.
+<2/figuras/Skin_cancer_classification_imagen_01.png, id=678, 385.221pt x 186.80
 7pt>
 File: 2/figuras/Skin_cancer_classification_imagen_01.png Graphic file (type png
 )
 <use 2/figuras/Skin_cancer_classification_imagen_01.png>
 Package pdftex.def Info: 2/figuras/Skin_cancer_classification_imagen_01.png  us
-ed on input line 479.
+ed on input line 484.
 (pdftex.def)             Requested size: 271.7837pt x 131.79587pt.
 
 
 LaTeX Warning: Citation 'ali_2022multiclass' on page 25 undefined on input line
- 480.
+ 485.
 
 
 LaTeX Warning: Citation 'ali_2022multiclass' on page 25 undefined on input line
- 480.
+ 485.
 
+LaTeX Info: Redefining \. on input line 488.
+LaTeX Info: Redefining \% on input line 488.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-LaTeX Warning: Citation 'xin2022improved' on page 25 undefined on input line 48
-9.
+[25 <./2/figuras/Multiclass_skin_cancer_imagen_01.png>]
+
+LaTeX Warning: Citation 'xin2022improved' on page 26 undefined on input line 49
+4.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 489.
+(hyperref)                removing `\citep' on input line 494.
 
 
-LaTeX Warning: Citation 'xin2022improved' on page 25 undefined on input line 49
-0.
+LaTeX Warning: Citation 'xin2022improved' on page 26 undefined on input line 49
+5.
 
 
-LaTeX Warning: Citation 'xin2022improved' on page 25 undefined on input line 49
-0.
+LaTeX Warning: Citation 'xin2022improved' on page 26 undefined on input line 49
+5.
 
 
-Overfull \hbox (2.53635pt too wide) in paragraph at lines 490--491
+Overfull \hbox (2.53635pt too wide) in paragraph at lines 495--496
 \OT1/ptm/m/n/12 vis-ta []Com-pu-ters in Bio-logy and Me-di-ci-ne[] en el a[]no 
 2022. Es-te fue ti-tu-la-do []
  []
 
-LaTeX Info: Redefining \. on input line 491.
-LaTeX Info: Redefining \% on input line 491.
+LaTeX Info: Redefining \. on input line 523.
+LaTeX Info: Redefining \% on input line 523.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
-
-[25]
-LaTeX Info: Redefining \. on input line 519.
-LaTeX Info: Redefining \% on input line 519.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [26 <./2/figuras/Skin_cancer_classification_imagen_01.png>]
-<2/figuras/An_improved_transformer_network _imagen_01.png, id=687, 1078.0275pt 
+<2/figuras/An_improved_transformer_network _imagen_01.png, id=689, 1078.0275pt 
 x 368.577pt>
 File: 2/figuras/An_improved_transformer_network _imagen_01.png Graphic file (ty
 pe png)
 <use 2/figuras/An_improved_transformer_network _imagen_01.png>
 Package pdftex.def Info: 2/figuras/An_improved_transformer_network _imagen_01.p
-ng  used on input line 530.
+ng  used on input line 535.
 (pdftex.def)             Requested size: 407.66867pt x 139.38019pt.
 
 
 LaTeX Warning: Citation 'xin2022improved' on page 27 undefined on input line 53
-1.
+6.
 
 
 LaTeX Warning: Citation 'xin2022improved' on page 27 undefined on input line 53
-1.
+6.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: Citation 'abdar2021uncertainty' on page 27 undefined on input li
-ne 539.
+ne 544.
 
 
-Overfull \hbox (3.16202pt too wide) in paragraph at lines 539--539
+Overfull \hbox (3.16202pt too wide) in paragraph at lines 544--544
 \OT1/ptm/b/n/14.4 way decision-based Ba-ye-sian deep lear-ning ([]) 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 539.
+(hyperref)                removing `\citep' on input line 544.
 
 
 LaTeX Warning: Citation 'abdar2021uncertainty' on page 27 undefined on input li
-ne 540.
+ne 545.
 
 
 LaTeX Warning: Citation 'abdar2021uncertainty' on page 27 undefined on input li
-ne 540.
+ne 545.
 
 
-Overfull \hbox (47.61972pt too wide) in paragraph at lines 540--541
+Overfull \hbox (47.61972pt too wide) in paragraph at lines 545--546
 \OT1/ptm/m/n/12 la re-vis-ta []Com-pu-ters in Bio-logy and Me-di-ci-ne[] en el 
 a[]no 2022. Es-te fue ti-tu-la-do []
  []
 
-LaTeX Info: Redefining \. on input line 541.
-LaTeX Info: Redefining \% on input line 541.
+LaTeX Info: Redefining \. on input line 548.
+LaTeX Info: Redefining \% on input line 548.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[27 <./2/figuras/An_improved_transformer_network _imagen_01.png>]
-LaTeX Info: Redefining \. on input line 566.
-LaTeX Info: Redefining \% on input line 566.
+[27]
+LaTeX Info: Redefining \. on input line 571.
+LaTeX Info: Redefining \% on input line 571.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[28]
-<2/figuras/Uncertainty_quantification_skin _imagen_01.png, id=697, 1111.7535pt 
+[28 <./2/figuras/An_improved_transformer_network _imagen_01.png>]
+<2/figuras/Uncertainty_quantification_skin _imagen_01.png, id=699, 1111.7535pt 
 x 175.25475pt>
 File: 2/figuras/Uncertainty_quantification_skin _imagen_01.png Graphic file (ty
 pe png)
 <use 2/figuras/Uncertainty_quantification_skin _imagen_01.png>
 Package pdftex.def Info: 2/figuras/Uncertainty_quantification_skin _imagen_01.p
-ng  used on input line 573.
+ng  used on input line 578.
 (pdftex.def)             Requested size: 452.96826pt x 71.40297pt.
 
 
 LaTeX Warning: Citation 'abdar2021uncertainty' on page 29 undefined on input li
-ne 574.
+ne 579.
 
 
 LaTeX Warning: Citation 'abdar2021uncertainty' on page 29 undefined on input li
-ne 574.
+ne 579.
 
 
 LaTeX Warning: Citation 'chaturvedi2020multi' on page 29 undefined on input lin
-e 580.
+e 585.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\citep' on input line 580.
+(hyperref)                removing `\citep' on input line 585.
 
 
 LaTeX Warning: Citation 'chaturvedi2020multi' on page 29 undefined on input lin
-e 581.
+e 586.
 
 
 LaTeX Warning: Citation 'chaturvedi2020multi' on page 29 undefined on input lin
-e 581.
+e 586.
 
-LaTeX Info: Redefining \. on input line 588.
-LaTeX Info: Redefining \% on input line 588.
+LaTeX Info: Redefining \. on input line 593.
+LaTeX Info: Redefining \% on input line 593.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [29 <./2/figuras/Uncertainty_quantification_skin _imagen_01.png>]
-<2/figuras/An_improved_network_skin_cancer_classification_imagen_01.png, id=703
+<2/figuras/An_improved_network_skin_cancer_classification_imagen_01.png, id=705
 , 1046.10825pt x 432.4155pt>
 File: 2/figuras/An_improved_network_skin_cancer_classification_imagen_01.png Gr
 aphic file (type png)
 <use 2/figuras/An_improved_network_skin_cancer_classification_imagen_01.png>
 Package pdftex.def Info: 2/figuras/An_improved_network_skin_cancer_classificati
-on_imagen_01.png  used on input line 624.
+on_imagen_01.png  used on input line 629.
 (pdftex.def)             Requested size: 362.37598pt x 149.79053pt.
 
 
 LaTeX Warning: Citation 'chaturvedi2020multi' on page 30 undefined on input lin
-e 625.
+e 630.
 
 
 LaTeX Warning: Citation 'chaturvedi2020multi' on page 30 undefined on input lin
-e 625.
+e 630.
 
 ) (2/2_teoria/base_teo.tex
 LaTeX Info: Redefining \. on input line 6.
@@ -2368,14 +2370,14 @@ LaTeX Info: Redefining \% on input line 6.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [30 <./2/figuras/An_improved_network_skin_cancer_classification_imagen_01.png>]
-<2/figuras/imagenes/IA_ML_DL.png, id=710, 820.06375pt x 792.9625pt>
+<2/figuras/imagenes/IA_ML_DL.png, id=712, 820.06375pt x 792.9625pt>
 File: 2/figuras/imagenes/IA_ML_DL.png Graphic file (type png)
 <use 2/figuras/imagenes/IA_ML_DL.png>
 Package pdftex.def Info: 2/figuras/imagenes/IA_ML_DL.png  used on input line 13
@@ -2391,11 +2393,11 @@ LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [31 <./2/figuras/imagenes/IA_ML_DL.png>]
 
@@ -2406,11 +2408,11 @@ LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [32]
 LaTeX Info: Redefining \. on input line 50.
@@ -2418,11 +2420,11 @@ LaTeX Info: Redefining \% on input line 50.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [33]
 Overfull \hbox (10.45726pt too wide) in paragraph at lines 63--64
@@ -2434,11 +2436,11 @@ LaTeX Info: Redefining \. on input line 71.
 LaTeX Info: Redefining \% on input line 71.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [34]) (2/3_conceptos/marc_conceptual.tex
 
@@ -2448,14 +2450,14 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [35]
-<2/figuras/imagenes/queeselcancer.jpg, id=732, 451.6875pt x 287.57437pt>
+<2/figuras/imagenes/queeselcancer.jpg, id=734, 451.6875pt x 287.57437pt>
 File: 2/figuras/imagenes/queeselcancer.jpg Graphic file (type jpg)
 <use 2/figuras/imagenes/queeselcancer.jpg>
 Package pdftex.def Info: 2/figuras/imagenes/queeselcancer.jpg  used on input li
@@ -2480,11 +2482,11 @@ LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [36 <./2/figuras/imagenes/queeselcancer.jpg>]
 
@@ -2499,11 +2501,11 @@ LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [37])) (3/metodologia.tex
 LaTeX Info: Redefining \. on input line 1.
@@ -2511,122 +2513,146 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
 [38]
 Cap\'{\i }tulo 3.
 
-Underfull \hbox (badness 1629) in paragraph at lines 26--27
+Underfull \hbox (badness 1629) in paragraph at lines 27--28
 []|\OT1/ptm/m/n/12 El con-jun-to de da-tos con-tie-ne un to-tal de
  []
 
 [39
 
 ]
-<3/figures/dataset-card.png, id=750, 289.08pt x 289.08pt>
+<3/figures/Operaciones de variables.png, id=752, 639.261pt x 432.963pt>
+File: 3/figures/Operaciones de variables.png Graphic file (type png)
+<use 3/figures/Operaciones de variables.png>
+Package pdftex.def Info: 3/figures/Operaciones de variables.png  used on input 
+line 43.
+(pdftex.def)             Requested size: 407.66867pt x 276.11101pt.
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[40 <./3/figures/Operaciones de variables.png>]
+<3/figures/dataset-card.png, id=758, 289.08pt x 289.08pt>
 File: 3/figures/dataset-card.png Graphic file (type png)
 <use 3/figures/dataset-card.png>
-Package pdftex.def Info: 3/figures/dataset-card.png  used on input line 45.
+Package pdftex.def Info: 3/figures/dataset-card.png  used on input line 65.
 (pdftex.def)             Requested size: 113.24207pt x 113.23918pt.
 
 
-LaTeX Warning: Citation 'kaggleSkinCancer' on page 40 undefined on input line 4
+LaTeX Warning: Citation 'kaggleSkinCancer' on page 41 undefined on input line 6
 6.
 
 
-LaTeX Warning: Citation 'kaggleSkinCancer' on page 40 undefined on input line 4
+LaTeX Warning: Citation 'kaggleSkinCancer' on page 41 undefined on input line 6
 6.
 
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
-
-[40 <./3/figures/dataset-card.png>]
-<3/figures/metodologia.png, id=756, 391.7034pt x 348.3414pt>
+<3/figures/metodologia.png, id=759, 396.0396pt x 348.3414pt>
 File: 3/figures/metodologia.png Graphic file (type png)
 <use 3/figures/metodologia.png>
-Package pdftex.def Info: 3/figures/metodologia.png  used on input line 69.
-(pdftex.def)             Requested size: 226.48413pt x 201.41626pt.
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
+Package pdftex.def Info: 3/figures/metodologia.png  used on input line 93.
+(pdftex.def)             Requested size: 226.48413pt x 199.21043pt.
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
-
-[41 <./3/figures/metodologia.png>]
-
-LaTeX Warning: Reference `3:fig13' on page 42 undefined on input line 103.
-
-<3/figures/Cronograma Diagrama de Gantt.png, id=762, 770.88pt x 578.16pt>
-File: 3/figures/Cronograma Diagrama de Gantt.png Graphic file (type png)
-<use 3/figures/Cronograma Diagrama de Gantt.png>
-Package pdftex.def Info: 3/figures/Cronograma Diagrama de Gantt.png  used on in
-put line 107.
-(pdftex.def)             Requested size: 452.96826pt x 339.72638pt.
 LaTeX Info: Redefining \. on input line 129.
 LaTeX Info: Redefining \% on input line 129.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[42 <./3/figures/Cronograma Diagrama de Gantt.png (PNG copy)>]
-Excluding 'comment' comment. Excluding 'comment' comment.)
+[41 <./3/figures/dataset-card.png>]
+LaTeX Info: Redefining \. on input line 133.
+LaTeX Info: Redefining \% on input line 133.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[42 <./3/figures/metodologia.png>]
+
+LaTeX Warning: Reference `3:fig13' on page 43 undefined on input line 207.
+
+<3/figures/Cronograma Diagrama de Gantt.png, id=771, 770.88pt x 578.16pt>
+File: 3/figures/Cronograma Diagrama de Gantt.png Graphic file (type png)
+<use 3/figures/Cronograma Diagrama de Gantt.png>
+Package pdftex.def Info: 3/figures/Cronograma Diagrama de Gantt.png  used on in
+put line 211.
+(pdftex.def)             Requested size: 452.96826pt x 339.72638pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 233.
+LaTeX Info: Redefining \% on input line 233.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
+
+[43] Excluding 'comment' comment. Excluding 'comment' comment.)
 LaTeX Info: Redefining \. on input line 218.
 LaTeX Info: Redefining \% on input line 218.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[43] [44
+[44 <./3/figures/Cronograma Diagrama de Gantt.png (PNG copy)>] [45
 
 
 ]
 \openout2 = `anexos/anexo.aux'.
 
- (anexos/anexo.tex
+
+(anexos/anexo.tex
 Anexos A.
-<images_repo/Anexo/Problem Tree Template.jpg, id=779, 1553.805pt x 1116.17pt>
+<images_repo/Anexo/Problem Tree Template.jpg, id=791, 1553.805pt x 1116.17pt>
 File: images_repo/Anexo/Problem Tree Template.jpg Graphic file (type jpg)
 <use images_repo/Anexo/Problem Tree Template.jpg>
 Package pdftex.def Info: images_repo/Anexo/Problem Tree Template.jpg  used on i
 nput line 5.
 (pdftex.def)             Requested size: 362.37598pt x 260.30731pt.
-[45
+[46
 
 
  <./images_repo/Anexo/Problem Tree Template.jpg>]
 Anexos B.
-<images_repo/Anexo/Árbol de Objetivos.jpg, id=784, 1459.4525pt x 1188.44pt>
+<images_repo/Anexo/Árbol de Objetivos.jpg, id=796, 1459.4525pt x 1188.44pt>
 File: images_repo/Anexo/Árbol de Objetivos.jpg Graphic file (type jpg)
 <use images_repo/Anexo/Árbol de Objetivos.jpg>
 Package pdftex.def Info: images_repo/Anexo/Árbol de Objetivos.jpg  used on inp
 ut line 17.
 (pdftex.def)             Requested size: 362.37598pt x 295.07825pt.
-[46
+[47
 
  <./images_repo/Anexo/Árbol de Objetivos.jpg>]
 Anexos C.
@@ -2679,7 +2705,7 @@ Overfull \hbox (11.42305pt too wide) in paragraph at lines 31--53
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images_repo/Anexo/Matriz.png, id=789, 1385.175pt x 751.17pt>
+<images_repo/Anexo/Matriz.png, id=801, 1385.175pt x 751.17pt>
 File: images_repo/Anexo/Matriz.png Graphic file (type png)
 <use images_repo/Anexo/Matriz.png>
 Package pdftex.def Info: images_repo/Anexo/Matriz.png  used on input line 60.
@@ -2690,35 +2716,35 @@ LaTeX Warning: Float too large for page by 8.40988pt on input line 64.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[47
+[48
 
 ]
 
-LaTeX Warning: Text page 48 contains only floats.
+LaTeX Warning: Text page 49 contains only floats.
 
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[48]
+[49]
 LaTeX Info: Redefining \. on input line 68.
 LaTeX Info: Redefining \% on input line 68.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[49 <./images_repo/Anexo/Matriz.png>]
+[50 <./images_repo/Anexo/Matriz.png>]
 Anexos D.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
 8.
@@ -3187,7 +3213,7 @@ Underfull \hbox (badness 3128) in paragraph at lines 124--125
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [50
+) [51
 
 ]
 LaTeX Info: Redefining \. on input line 221.
@@ -3195,13 +3221,13 @@ LaTeX Info: Redefining \% on input line 221.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[51]
+[52]
 
 ! LaTeX Error: Can be used only in preamble.
 
@@ -3219,13 +3245,13 @@ LaTeX Info: Redefining \. on input line 229.
 LaTeX Info: Redefining \% on input line 229.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.7642pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.7642pt}.
+(fancyhdr)                Make it at least 17.21764pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.21764pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.7642pt}.
+(fancyhdr)                \addtolength{\topmargin}{-5.21764pt}.
 
-[52
+[53
 
 
 ] (tesis.aux
@@ -3245,7 +3271,7 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: D0A1EA6E844423A3D6458EDC260F560C;24103.
+(rerunfilecheck)             Checksum: 7EEFF4D1BFD56CF101D41DC64CD2C59C;24169.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                tesis
@@ -3256,21 +3282,22 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40407 strings out of 474423
- 813274 string characters out of 5751521
- 1957496 words of memory out of 5000000
- 61944 multiletter control sequences out of 15000+600000
- 605100 words of font info for 134 fonts, out of 8000000 for 9000
+ 40434 strings out of 474423
+ 813760 string characters out of 5751521
+ 1956496 words of memory out of 5000000
+ 61959 multiletter control sequences out of 15000+600000
+ 606930 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,29n,92p,1138b,3514s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
- Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
-X/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><C:/Program Files/MiKTeX/font
-s/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utm
-r8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (53 pages, 11789441 bytes).
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/latxfont/lasy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/
+times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/
+Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on tesis.pdf (54 pages, 12768895 bytes).
 PDF statistics:
- 887 PDF objects out of 1000 (max. 8388607)
- 183 named destinations out of 1000 (max. 500000)
- 930 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 904 PDF objects out of 1000 (max. 8388607)
+ 188 named destinations out of 1000 (max. 500000)
+ 935 words of extra memory for PDF output out of 10000 (max. 10000000)
 

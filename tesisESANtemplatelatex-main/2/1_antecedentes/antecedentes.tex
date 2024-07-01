@@ -51,23 +51,28 @@ El estudio se enfoca en buscar una solución a las altas tasas de moratalidad de
 
 
 \subsubsection{Metodología empleada por los autores}
-\newcommand{\TISCone}{Base de datos: Se uso 2 bases de datos HAM10000 Dataset y ISAC2018 Dataset.
+\newcommand{\TISCone}{Base de datos: Se uso la bases de datos ISAC2018 Dataset.
 }
-\newcommand{\TISCtwo}{Selección de modelos pre-entrenados: Se seleccion los modelo MobileNetV2 y DenseNet201. Los cuales fueron modificados mediante el aumento de mayor cantidad de capas convolucionales(tres capas) para para mejorar su desempeño en la clasificación de lesiones.
+\newcommand{\TISCtwo}{Preprocesamiento y limpieza de Data: Se aplicaron técnicas para la mejorar de la calidad visual del conjunto de datos, como el estiramiento de contraste, para mejorar la calidad de las imágenes
+Luego se empleo la técnica data argumentation para aumentar el número de ejemplos de entrenamiento, lo que incluyó operaciones como rotación, volteo y adición de ruido a las imágenes
+	
+El conjunto de datos se compone de un total de 3297 imágenes, con 1800 imágenes en la categoría "benigna" y 1497 en la categoría "maligna"
 }
 
-\newcommand {\TISCthree} {Comparación de resultados: Se realizó una comparación detallada para demostrar que los modelos modificados eran superiores a los modelos preentrenados originales. Para evaluar el rendimiento de los modelos propuestos, se evaluaron métricas como precisión, sensibilidad y especificidad.}
+\newcommand {\TISCthree} {Modelos de Aprendizaje Profundo: Describen los dos modelos de aprendizaje profundo utilizados en este estudio: MobileNetV2 y DenseNet201. Donde en cada uno de ellos fueron modificados agregando una cierta cantidad de capas convolucionales al final del modelo.
+	
+}
 
-\newcommand {\TISCfour} {Evaluación de desempeño: Se evaluó el desempeño de los modelos propuestos en la detección de clases benignas y malignas.}
+\newcommand {\TISCfour} {Grad-CAM Visualization: Se emplea para obtener información sobre el aprendizaje de características dentro de los modelos de aprendizaje profundo utilizados en el estudio. Esta técnica proporciona una forma de comprender qué características de la imagen son relevantes para la clasificación realizada por el modelo.}
 
-\newcommand {\TISCfive} {Comparación con otras técnicas: Se compararon los resultados obtenidos con otras técnicas presentes en la literatura para demostrar la eficacia y el rendimiento superior de los modelos propuestos en la clasificación de lesiones de cáncer de piel.}
+
 
 \begin{itemize}
 	\item \TISCone
-	%\item \TISCtwo
+	\item \TISCtwo
 	\item \TISCthree
 	\item \TISCfour
-	\item \TISCfour
+	
 	
 \end{itemize}
 

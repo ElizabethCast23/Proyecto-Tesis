@@ -1,4 +1,5 @@
 \chapter{METODOLOGÍA DE LA INVESTIGACIÓN}
+
 \section{Diseño de la investigación}
 En este segmento del documento se explica cuál fue el tipo y enfoque del trabajo de investigación, al igual que la población y la muestra.
 
@@ -31,19 +32,38 @@ El presente trabajo tuvo un enfoque cuantitativo debido a que al usar herramient
 \end{center}
 
 
-%\section{Operacionalizacion de variables}
+\section{Operacionalización de variables}
+
+%% Matriz de consistencia metricas solo nombrarlas no poner formlas
+
+
+
+\begin{figure}[h]
+	\begin{center}
+		\includegraphics[width=0.9\textwidth]{3/figures/Operaciones de variables.png}
+		\caption{Imagén de la Base de Datos. Fuente: Elaboracion propia}
+		\label{1:fig 20}
+	\end{center}
+\end{figure}
+
+
+
+
 
 
 
 
 \section{Técnicas de recolección}
 
-La Base de datos que se utilizara para este trabajo es Skin Cancer MNIST: HAM10000, la que es una colección de múltiples imagenes dermatológicas del año 2018. Las variables se clasifican en tipos de lesión cutánea(melanoma/no melanoma). El tipo de análisis que se realizara es la clasificación y categorización las imágenes de acuerdo con los diferentes tipos de lesiones cutáneas.
+Para el desarrollo de este trabajo tenemos 2 posibiles base de datos a usar.
+
+
+1.-  Skin Cancer MNIST: HAM10000: Colección de múltiples imagenes dermatológicas del año 2018. Las variables se clasifican en tipos de lesión cutánea(melanoma/no melanoma). El tipo de análisis que se realizara es la clasificación y categorización las imágenes de acuerdo con los diferentes tipos de lesiones cutáneas.
 
 \begin{figure}[h]
 	\begin{center}
 		\includegraphics[width=0.25\textwidth]{3/figures/dataset-card.png}
-		\caption{Imagén de la Base de Datos. Fuente: \cite{kaggleSkinCancer}}
+		\caption{Imagen de la Base de Datos. Fuente: \cite{kaggleSkinCancer}}
 		\label{1:fig 17}
 	\end{center}
 \end{figure}
@@ -51,28 +71,69 @@ La Base de datos que se utilizara para este trabajo es Skin Cancer MNIST: HAM100
 
 
 
+\section{Técnicas para el procesamiento y análisis de la información}
+Para escoger que metodología se usaria en el presente trabajo, se realizó un análisis de cada metodologías usada en los antecedentes presentados. No obstante, estos solo mencionan los pasos que realizaron para la implementacion de su investigacion.
 
-\section{Técnicas para el procesamient y análisis de la información}
+ Aun así según la información recolectada se desidio implementar la metodología Iterativa. Esta por los siguentes puntos:
+ 
+ - División del trabajo: Permite realizar una división según las partes del proyecto, facilitando la gestión y su seguimiento.
+ 
+ - Adaptavilidad: Se le puede realizar ajustes si el proyecto lo requiere.
+ 
+ Ahora se explicara los pasos a realizar en cada punto.
+ 
+
 
 \subsection{Metodología de la implementación de la solución}
 
-Para escoger la metodología, se realizó una investigación de las metodologías usadas en los antecedentes presentados con la finalidad de cuál es la que conviene usar más. No obstante, estos solo mencionan los pasas de su metodología, pero no el nombre de este. 
 
-Aun así según la información recolectada se decido implementar la metodología Iterativa. Estas por las siguentes puntos:
-
-- División del trabajo: Permite realizar una división según las partes del proyecto, facilitando la gestión y su seguimiento.
-
-- ttavilidad: Se le puede realizar ajustes si el proyecto lo necesita
 
 \begin{figure}[h]
 	\begin{center}
 		\includegraphics[width=0.5\textwidth]{3/figures/metodologia.png}
-		\caption{Imagén de la Base de Datos. Fuente: Elavoracion propia}
+		\caption{Grafico de la Metodología a implementar. Fuente: Elavoración propia}
 		\label{1:fig 19}
 	\end{center}
 \end{figure}
 
 
+\newcommand{\MIPone}{Comprensión del problema: 
+	Realizar una investigacion basica para la comprencion del tema a investigar. En este caso la detección temprana del melanoma es crucial para el tratamiento eficaz del cáncer de piel. No obstante, la evaluación manual de las imágenes cutáneas puede ser subjetiva y propensa a errores. Continuando, con la realizacion de una investigación de antecedente para determinar que tecnologia puede ayudar a automatizar y mejorar la precisión de deteccion del cander de melanoma.
+	
+}
+\newcommand{\MIPtwo}{Descripción de la Base de datos: Se utilizará una base de datos de imágenes de lesiones cutáneas. Esta incluirá imágenes dermatoscópicas de melanomas y no melanomas.
+
+Se revisara los antecedentes anterioes para ver que base de datos utilizaron. Si es posible usar usara una de esta o de lo contrario se indagara para la selección de otra.
+Se dividida en conjuntos de entrenamiento, validación y prueba para evaluar el desempeño del modelo.
+	
+}
+\newcommand{\MIPthree}{Limpieza y Preprocesamiento de Datos: 
+	Se realizara la normalización del color, eliminación de artefactos, aumento de datos (data augmentation) y segmentación de las lesiones cutáneas. Se continuara con la implementacin de Feature Vectors para facilitar el aprendizaje del modelo en este caso haciendo uso de GLCM.  
+	%% GLCM 
+	
+	
+}
+\newcommand{\MIPfour}{Diseño del Modelo de Deep Learning:
+	Se realizara una arquitectura de redes neuronal profundas (DNN) y redes neuronales convolucionales (CNN) las cuales mediante averaging se promediara las predicciones de ambos modelos, mejorando el rendimiento general del sistema de clasificación.
+	
+
+}
+\newcommand{\MIPfive}{Entrenamiento y Evaluación del Modelo: El modelo se entrenará utilizando el conjunto de datos de entrenamiento, ajustando los hiperparámetros para optimizar su desempeño. El modelo será evaluado en el conjunto de validación y prueba, utilizando métricas como la precisión, sensibilidad, especificidad, y la curva ROC-AUC para medir su efectividad en la detección del melanoma.
+	
+}
+
+
+
+
+\begin{itemize}
+	\item \MIPone
+	\item \MIPtwo
+	\item \MIPthree
+	\item \MIPfour
+	\item \MIPfive
+	%\item \MIPsix
+	
+\end{itemize}
 
 	
 
@@ -86,13 +147,56 @@ Aun así según la información recolectada se decido implementar la metodologí
 Para evaluar la performance de un modelo, se utilizan diversas métricas como instrumentos de medición de desempeño a partir de los resultados arrojados en la Matriz de confusión. A continuación, se detalla su concepto y sus elementos.
 
 
-La fórmula de Precisión (Accuracy) se define como:
+%La fórmula de Precisión (Accuracy) se define como:
  
+%\begin{equation}
+%	\text{Precisión} = \frac{TP + TN}{TP + TN + FP + FN}
+%\end{equation}
+
+%Esta formula sera usada para la precisio del algoritmo.
+
+
+%% formula 1
+La fórmula de Área Bajo la Curva Característica Operativa del Receptor (AUC-ROC) se define como:
 \begin{equation}
-	\text{Precisión} = \frac{TP + TN}{TP + TN + FP + FN}
+	\text{AUC-ROC} = \int_{0}^{1} TPR(FPR) \, d(FPR)
 \end{equation}
 
-Esta formula sera usada para la precisio del algoritmo.
+Esta formula sera usada para la efectividad de la Clasificación
+
+
+
+
+
+%% formula 2
+La fórmula Puntaje F1 (F1-Score) se define como:
+
+\begin{equation}
+	F1 = 2 \cdot \frac{\text{Precisión} \cdot \text{Recall}}{\text{Precisión} + \text{Recall}}
+\end{equation}
+Esta formula sera usada fectividad de la Detección
+
+
+
+
+%% formula 3
+La fórmula de Tasa de Falsos Positivos se define como:
+
+\begin{equation}
+	\text{FPR} = \frac{FP}{FP + TN}
+\end{equation}
+Esta formula sera usada para evaluar la eficiencia del preprocesamiento en la mejora del modelo
+
+
+
+
+%% formula 4
+La fórmula de exactitud del Modelo se define como:
+\begin{equation}
+	\text{Tasa de Exactitud} = \frac{\text{Número de predicciones correctas}}{\text{Número total de predicciones}}
+\end{equation}
+
+Esta formula sera usada para evaluar exactitud del modelo
 
 
 
@@ -100,7 +204,7 @@ Esta formula sera usada para la precisio del algoritmo.
 
 \section{Cronograma de actividades}
 
-Se elaboró un cronograma de actividades de toda la investigación, mostrada en la Figura \ref{3:fig13}, contemplando desde el inicio del año 2024 hasta finales del 2024 deonde se realizara la sustentacion del trabajo sustentación del trabajo.
+Se elaboró un cronograma de actividades de toda la investigación, mostrada en la Figura \ref{3:fig13}, contemplando desde el inicio del año 2024 hasta finales del 2024, donde se realizara la sustentacion del trabajo.
 
 \begin{figure}[h]
 	\begin{center}
